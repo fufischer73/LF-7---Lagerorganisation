@@ -1,0 +1,43 @@
+# Aufbau des Moodle-Kurses im Stil der Lernfeld-Kurse (siehe skripte/moodle_lf.py im Lernpfad-Baukasten).
+# Fehlende Nextcloud-Links bleiben leer (url:) und stehen nach dem Bauen in ausgabe/moodle/LINKS_ausfuellen.md.
+
+kurs:
+  titel: "Industriekaufleute: Lernfeld 7"
+  kurzname: lf7-logistik
+  abschnitt: "Lernfeld 7: Logistik- und Lagerprozesse koordinieren, umsetzen und überwachen (40 Std.)"
+  text: Lieferkette, Lager, Nachhaltigkeit, Entsorgung und Transport bei der Fly Bike Werke GmbH.
+
+advance_organizer:
+  links:
+    - {titel: "Inhaltliche Orientierung: Übersicht LF7", icon: orientierung}
+    - {titel: "Selbsteinschätzung LF7 (Kann-Liste)", icon: kannliste}
+    - {titel: "Vorlage Punktekonto LF7"}
+    - {titel: "Wochenplan LF7"}
+
+bloecke:
+  - titel: "Block I: Logistik- und Lagerkonzept (LS64 - LS65)"
+    lernsituationen:
+      - {id: ls64, titel: "LS64 - Ein Logistikkonzept erstellen"}
+      - {id: ls65, titel: "LS65 - Die Lagerhaltung planen"}
+    abschluss:
+      - systematisierung: {titel: "Systematisierung: Von der Lieferkette zum Lager (Strukturlegetechnik)"}
+      - reflexion: {titel: "Zwischenreflexion Block I"}
+
+  - titel: "Block II: Nachhaltigkeits- und Entsorgungskonzept (LS70 - LS69)"
+    lernsituationen:
+      - {id: ls70, titel: "LS70 - Für Sicherheit und Nachhaltigkeit in der Logistik sorgen"}
+      - {id: ls69, titel: "LS69 - Ein Entsorgungskonzept erstellen"}
+    abschluss:
+      - systematisierung: {titel: "Systematisierung: Ökologie - Soziales - Ökonomie (Strukturlegetechnik)"}
+      - zertifizierung: {titel: "Zertifizierung - Terminwahl für das Fachgespräch zu HP 1 und HP 2"}
+      - reflexion: {titel: "Reflexion und Feedback Block II"}
+
+  - titel: "Block III: Kosten, Kennzahlen, Transport (LS66 - LS68)"
+    lernsituationen:
+      - {id: ls66, titel: "LS66 - Zwischen Eigen- und Fremdlager entscheiden"}
+      - {id: ls67, titel: "LS67 - Die Lagerhaltung mithilfe von Kennzahlen verbessern"}
+      - {id: ls68, titel: "LS68 - Die geeignete Transportform auswählen"}
+    abschluss:
+      - systematisierung: {titel: "Systematisierung: Kosten, Kennzahlen, Transport (Strukturlegetechnik)"}
+      - textfeld: {titel: "Klassenarbeit 1: Überblick und Vorbereitung"}
+      - reflexion: {titel: "Reflexion und Feedback Block III"}
