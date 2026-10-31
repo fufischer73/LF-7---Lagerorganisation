@@ -96,13 +96,95 @@ bloecke:
             - {titel: "Zwischenreflexion Block I: Leitfragen"}
 
   - titel: "Block II: Nachhaltigkeits- und Entsorgungskonzept (LS70 - LS69)"
+    anfang:
+      - textfeld:
+          titel: "Handlungsprodukt 2: Einladung zum Meeting"
+          text: |
+            Die Fly Bike Werke GmbH hat Nachhaltigkeit in ihrer Strategie verankert, jetzt rückt die Logistik in den Mittelpunkt. Herr Thüne lädt zum Meeting ein: Aus den Ideen sollen konkrete Handlungsstrategien und ein ganzheitliches Entsorgungskonzept werden, das auch die Mitarbeitenden einbindet.
+
+            In Block II erarbeitet ihr im Team drei Teile: A Nachhaltigkeitsmaßnahmen, B Entsorgungskonzept, C Wirkung und Nachhaltigkeitsziele (SDG 6 und 11). Am Ende stellt ihr das Konzept im Meeting vor. Handlungsprodukt 1 und 2 sind die Grundlage für das Fachgespräch.
+          links:
+            - {titel: "Handlungsprodukt 2: Auftrag und Hinweise"}
     lernsituationen:
-      - {id: ls70, titel: "LS70 - Für Sicherheit und Nachhaltigkeit in der Logistik sorgen"}
-      - {id: ls69, titel: "LS69 - Ein Entsorgungskonzept erstellen"}
+      - id: ls70
+        titel: "LS70 - Für Sicherheit und Nachhaltigkeit in der Logistik sorgen"
+        text: "Ideen für eine nachhaltige Logistik sammeln und priorisieren, Sicherheit im Lager. Buch: Lernfeld 7, Kapitel 5.3 (Seiten 126 bis 134)."
+        links:
+          - {titel: "LS70: Lernsituation und Arbeitsblätter"}
+        orientierung: {titel: "Inhaltliche Orientierung: Sicherheit und Nachhaltigkeit in der Logistik"}
+        kokreativ:
+          text: |
+            Bearbeitet im Team die Arbeitsaufträge 1 bis 4 der Lernsituation (Ideen sammeln, priorisieren, Meeting vorbereiten). Ihr braucht die Arbeitsblätter 70.1 bis 70.4 und das Buchkapitel. Eure Ergebnisse sind Teil A des Handlungsprodukts 2.
+          links:
+            - {titel: "LS70: Aufgaben und Arbeitsblätter"}
+        loesungen:
+          links:
+            - {titel: "LS70 - Lösungen Teil 1"}
+        lernatelier:
+          text: |
+            Hier findet ihr die Aufgaben zur LS70 (Sicherheitszeichen, Gefahrstoffe, Ergonomie, Unfälle, Datenschutz), die Lösungen und die Zusatzaufgaben. Die BNE-Aufgabe zu Nachhaltigkeitsziel 11 (Stadtlogistik, letzte Meile) gehört dazu.
+
+            Hinweis: Bearbeite nicht alle Aufgaben, sondern übe gezielt die Themen, bei denen du Bedarf hast.
+          links:
+            - {titel: "LS70: Aufgaben aus dem Arbeitsheft (Seiten 132 bis 134)"}
+            - {titel: "LS70: Aufgabenauswahl nach Niveau und Zusatzaufgaben (BNE SDG 11)"}
+            - {titel: "LS70 - Lösungen Teil 2"}
+        verarbeitung:
+          text: "Hier findest du die Lösungen zu den Alles-klar-Aufgaben Kapitel 5. Prüfe danach deine Kann-Liste."
+          links:
+            - {titel: "Lösungen Alles-klar-Aufgaben Kapitel 5"}
+      - id: ls69
+        titel: "LS69 - Ein Entsorgungskonzept erstellen"
+        text: "Ein ganzheitliches Entsorgungskonzept für die Fly Bike Werke GmbH. Buch: Lernfeld 7, Kapitel 4.1 bis 4.3 (Seiten 117 bis 125)."
+        links:
+          - {titel: "LS69: Lernsituation und Arbeitsblätter"}
+        orientierung: {titel: "Inhaltliche Orientierung: Ein Entsorgungskonzept erstellen"}
+        kokreativ:
+          text: |
+            Bearbeitet im Team die Arbeitsaufträge 1 bis 6 der Lernsituation. Ihr braucht das Arbeitsblatt 69.1 (vier Blätter) und das Buchkapitel. Eure Ergebnisse sind Teil B des Handlungsprodukts 2.
+          links:
+            - {titel: "LS69: Aufgaben und Arbeitsblätter"}
+        loesungen:
+          links:
+            - {titel: "LS69 - Lösungen Teil 1"}
+        lernatelier:
+          text: |
+            Hier findet ihr die Aufgaben zur LS69, die Lösungen und die Zusatzaufgaben. Die BNE-Aufgabe zu Nachhaltigkeitsziel 6 (Sauberes Wasser, Lacke und Gewässerschutz) gehört dazu.
+
+            Hinweis: Bearbeite nicht alle Aufgaben, sondern übe gezielt die Themen, bei denen du Bedarf hast.
+          links:
+            - {titel: "LS69: Aufgaben aus dem Arbeitsheft (Seiten 123 bis 125)"}
+            - {titel: "LS69: Aufgabenauswahl nach Niveau und Zusatzaufgaben (BNE SDG 6)"}
+            - {titel: "LS69 - Lösungen Teil 2"}
+        verarbeitung:
+          text: "Hier findest du die Lösungen zu den Alles-klar-Aufgaben Kapitel 4. Prüfe danach deine Kann-Liste."
+          links:
+            - {titel: "Lösungen Alles-klar-Aufgaben Kapitel 4"}
     abschluss:
-      - systematisierung: {titel: "Systematisierung: Ökologie - Soziales - Ökonomie (Strukturlegetechnik)"}
-      - zertifizierung: {titel: "Zertifizierung - Terminwahl für das Fachgespräch zu HP 1 und HP 2"}
-      - reflexion: {titel: "Reflexion und Feedback Block II"}
+      - systematisierung:
+          titel: "Systematisierung: Nachhaltigkeit und Entsorgung (Strukturlegetechnik)"
+          text: |
+            Legt aus den Begriffen von LS70 und LS69 mit Karten ein Strukturbild (analog, ohne Computer). Ordnet auch die Nachhaltigkeitsziele 6 und 11 ein und haltet das Ergebnis für Teil C eures Handlungsprodukts fest.
+          links:
+            - {titel: "Systematisierung: Anleitung und Begriffe"}
+      - textfeld:
+          titel: "Meeting: Handlungsprodukt 2 vorstellen"
+          text: |
+            Stellt euer Konzept im Meeting (Rollenspiel) vor. Verteilt Rollen wie Geschäftsführung, Logistik, Produktion, Betriebsrat, Verwaltung. Am Ende entscheidet das Meeting, welche Maßnahmen umgesetzt werden.
+      - zertifizierung:
+          titel: "Zertifizierung - Terminwahl für das Fachgespräch zu HP 1 und HP 2"
+          text: |
+            Tragt euch in die TaskCard ein, sobald ihr Block II bearbeitet habt. Verschiebt dazu die Kachel mit eurem Namen in die gewünschte Spalte. Sobald ein Termin mit 3 bis 4 Schülerinnen und Schülern belegt ist, beginnen wir mit dem Fachgespräch.
+      - textfeld:
+          titel: "Fachgespräch: Ablauf und Kriterien"
+          links:
+            - {titel: "Zertifizierung: Ablauf und Kriterien des Fachgesprächs"}
+      - reflexion:
+          titel: "Reflexion und Feedback Block II"
+          text: |
+            Nimm dir nach dem Fachgespräch 15 Minuten: Was lief gut? Was ist noch unklar? Wie hängen Lieferkette, Lager, Nachhaltigkeit und Entsorgung zusammen? Welchen Beitrag leistet die Logistik zu den Nachhaltigkeitszielen 6 und 11?
+          links:
+            - {titel: "Reflexion Block II: Leitfragen"}
 
   - titel: "Block III: Kosten, Kennzahlen, Transport (LS66 - LS68)"
     lernsituationen:

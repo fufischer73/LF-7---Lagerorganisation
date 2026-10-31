@@ -37,8 +37,8 @@ def auftrag_hp1(pfad):
     d.speichern(pfad)
 
 
-def orientierung(pfad, ls, titel, buch, std, worum, wichtig, kann, begriffe, verbindung, seiten):
-    d = Dok(KOPF + f" · {ls}", f"Inhaltliche Orientierung {ls}: {titel}")
+def orientierung(pfad, ls, titel, buch, std, worum, wichtig, kann, begriffe, verbindung, seiten, kopf=None):
+    d = Dok((kopf or KOPF) + f" · {ls}", f"Inhaltliche Orientierung {ls}: {titel}")
     d.p(f"Zeitrahmen: {std} Unterrichtsstunden · Buch: {buch} · Lernsituation und Aufgaben: {seiten}", kursiv=True)
     d.h2("Worum geht es?")
     d.p(worum)
