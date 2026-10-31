@@ -8,6 +8,7 @@ kurs:
   text: Lieferkette, Lager, Nachhaltigkeit, Entsorgung und Transport bei der Fly Bike Werke GmbH.
 
 advance_organizer:
+  html: material/advance-organizer.html
   links:
     - {titel: "Inhaltliche Orientierung: Übersicht LF7", icon: orientierung}
     - {titel: "Selbsteinschätzung LF7 (Kann-Liste)", icon: kannliste}
@@ -16,12 +17,83 @@ advance_organizer:
 
 bloecke:
   - titel: "Block I: Logistik- und Lagerkonzept (LS64 - LS65)"
+    anfang:
+      - textfeld:
+          titel: "Handlungsprodukt 1: Der Auftrag der Geschäftsleitung"
+          text: |
+            Die Fly Bike Werke GmbH wächst. Frau Nowak bittet die Logistikabteilung um ein Logistik- und Lagerkonzept als Entscheidungsvorlage, bevor in ein neues Lager investiert wird.
+
+            In Block I erarbeitet ihr im Team (3 bis 4 Personen) Schritt für Schritt drei Teile: A Lieferkette, B Lagerplanung, C Verknüpfung und Empfehlung. Das Handlungsprodukt ist die Grundlage für das Fachgespräch nach Block II.
+          links:
+            - {titel: "Handlungsprodukt 1: Auftrag und Hinweise"}
     lernsituationen:
-      - {id: ls64, titel: "LS64 - Ein Logistikkonzept erstellen"}
-      - {id: ls65, titel: "LS65 - Die Lagerhaltung planen"}
+      - id: ls64
+        titel: "LS64 - Ein Logistikkonzept erstellen"
+        text: "Lieferketten und Supply-Chain-Management bei der Fly Bike Werke GmbH. Buch: Lernfeld 7, Kapitel 1.1, 1.2 und 1.3.3 (Seiten 74 bis 79)."
+        links:
+          - {titel: "LS64: Lernsituation und Arbeitsblätter"}
+        orientierung: {titel: "Inhaltliche Orientierung: Ein Logistikkonzept erstellen"}
+        kokreativ:
+          text: |
+            Bearbeitet im Team die Arbeitsaufträge 1 bis 4 der Lernsituation. Ihr braucht die Arbeitsblätter 64.1 und 64.2 und die Buchkapitel. Eure Ergebnisse sind Teil A des Handlungsprodukts 1.
+          links:
+            - {titel: "LS64: Aufgaben und Arbeitsblätter"}
+        loesungen:
+          links:
+            - {titel: "LS64 - Lösungen Teil 1"}
+        lernatelier:
+          text: |
+            Hier findet ihr die Aufgaben zur LS64, die Lösungen und die Zusatzaufgaben (Just-in-Time und Just-in-Sequence, Lieferkette und Verantwortung).
+
+            Hinweis: Bearbeite nicht alle Aufgaben, sondern übe gezielt die Themen, bei denen du Bedarf hast.
+          links:
+            - {titel: "LS64: Aufgaben aus dem Arbeitsheft (Seiten 77 bis 79)"}
+            - {titel: "LS64: Aufgabenauswahl nach Niveau und Zusatzaufgaben"}
+            - {titel: "LS64 - Lösungen Teil 2"}
+        verarbeitung:
+          text: "Hier findest du die Lösungen zu den Alles-klar-Aufgaben Kapitel 1. Prüfe danach deine Kann-Liste."
+          links:
+            - {titel: "Lösungen Alles-klar-Aufgaben Kapitel 1"}
+      - id: ls65
+        titel: "LS65 - Die Lagerhaltung planen"
+        text: "Ein neues Lager für die Fly Bike Werke GmbH planen. Buch: Lernfeld 7, Kapitel 2.1 bis 2.4 und 2.3.4 (Seiten 80 bis 88)."
+        links:
+          - {titel: "LS65: Lernsituation und Arbeitsblätter"}
+        orientierung: {titel: "Inhaltliche Orientierung: Die Lagerhaltung planen"}
+        kokreativ:
+          text: |
+            Bearbeitet im Team die Arbeitsaufträge 1 bis 5 der Lernsituation. Ihr braucht die Arbeitsblätter 65.1 bis 65.3 und die Buchkapitel. Eure Ergebnisse sind Teil B des Handlungsprodukts 1.
+          links:
+            - {titel: "LS65: Aufgaben und Arbeitsblätter"}
+        loesungen:
+          links:
+            - {titel: "LS65 - Lösungen Teil 1"}
+        lernatelier:
+          text: |
+            Hier findet ihr die Aufgaben zur LS65, die Lösungen und die Zusatzaufgaben (Standorte der Lager, Lagerlayout, nachhaltige Lagerplanung).
+
+            Hinweis: Bearbeite nicht alle Aufgaben, sondern übe gezielt die Themen, bei denen du Bedarf hast.
+          links:
+            - {titel: "LS65: Aufgaben aus dem Arbeitsheft (Seiten 84 bis 88)"}
+            - {titel: "LS65: Aufgabenauswahl nach Niveau und Zusatzaufgaben"}
+            - {titel: "LS65 - Lösungen Teil 2"}
+        verarbeitung:
+          text: "Hier findest du die Lösungen zu den Alles-klar-Aufgaben Kapitel 2. Prüfe danach deine Kann-Liste."
+          links:
+            - {titel: "Lösungen Alles-klar-Aufgaben Kapitel 2"}
     abschluss:
-      - systematisierung: {titel: "Systematisierung: Von der Lieferkette zum Lager (Strukturlegetechnik)"}
-      - reflexion: {titel: "Zwischenreflexion Block I"}
+      - systematisierung:
+          titel: "Systematisierung: Von der Lieferkette zum Lager (Strukturlegetechnik)"
+          text: |
+            Legt aus den Begriffen von LS64 und LS65 mit Karten ein Strukturbild. Das machen wir analog, ohne Computer. Danach verbindet ihr Lieferkette und Lager in Teil C eures Handlungsprodukts.
+          links:
+            - {titel: "Systematisierung: Anleitung und Begriffe"}
+      - reflexion:
+          titel: "Zwischenreflexion Block I"
+          text: |
+            Nimm dir 10 Minuten: Was hat gut geklappt? Was ist noch unklar? Welche Kann-Aussagen sitzen? Was nimmst du für Block II mit?
+          links:
+            - {titel: "Zwischenreflexion Block I: Leitfragen"}
 
   - titel: "Block II: Nachhaltigkeits- und Entsorgungskonzept (LS70 - LS69)"
     lernsituationen:
