@@ -1,0 +1,38 @@
+# Kursbeschreibung – LF 7: Logistik- und Lagerprozesse koordinieren, umsetzen und überwachen
+# Aufbau und alle Felder: referenzen/schema.md im Lernpfad-Baukasten
+
+titel: "LF 7: Logistik- und Lagerprozesse koordinieren, umsetzen und überwachen"
+kurzname: lf7-logistik
+ueberschrift: "LF 7: Logistik- und Lagerprozesse koordinieren, umsetzen und überwachen – Schritt für Schritt"
+untertitel: Lieferkette, Lager, Nachhaltigkeit, Entsorgung und Transport bei der Fly Bike Werke GmbH.
+badges: [Industriekaufleute, 2. Lehrjahr, 40 Std., 3 Blöcke]
+fusszeile: BBZ Rendsburg-Eckernförde
+
+einleitung: |
+  :::notiz 👉 Bevor du startest
+  Arbeite die Module der Reihe nach durch.
+  :::
+
+stufen:
+  - id: block-1
+    name: "Block I: Logistik- und Lagerkonzept (LS 64, 65)"
+    icon: "📦"
+    text: Lieferkette stabilisieren und das Lager der Fly Bike Werke GmbH neu planen (Handlungsprodukt 1).
+    module: [ls64, ls65, hp1]
+  - id: block-2
+    name: "Block II: Nachhaltigkeits- und Entsorgungskonzept (LS 70, 69)"
+    icon: "🌍"
+    text: Von der Idee zum Entsorgungskonzept (Handlungsprodukt 2, SDG 6 und 11, Fachgespräch).
+    module: [ls70, ls69, hp2]
+  - id: block-3
+    name: "Block III: Kosten, Kennzahlen, Transport (LS 66, 67, 68)"
+    icon: "🚚"
+    text: Eigen- oder Fremdlager, Lagerkennzahlen und die passende Transportform.
+    module: [ls66, ls67, ls68, fg3]
+
+# selbstcheck:            # optional: kurzer Selbsteinschätzungs-Check auf der Startseite
+
+moodle:
+  version: 5                 # 5 = mit Unterabschnitten und H5P (Standard), 4 = ohne Unterabschnitte
+  freischaltung: offen  # einstufung = Stufe frei nach Meilenstein ODER Einstufungstest; offen = alle Stufen sofort
+  reihenfolge: frei  # nacheinander | frei
