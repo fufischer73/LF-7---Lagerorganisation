@@ -11,4 +11,4 @@ Lernpfad für Industriekaufleute, 2. Lehrjahr (Lehrplan 2024), 40 Std., gebaut m
 | II Nachhaltigkeits- und Entsorgungskonzept (HP 2) | LS 70, 69 | 10 |
 | III Kosten, Kennzahlen, Transport | LS 66, 67, 68 | 18 |
 
-Ein Fachgespräch nach Block II bezieht sich auf beide Handlungsprodukte.
+Ein Fachgespräch nach Block II bezieht sich auf beide Handlungsprodukte. Block III endet mit der Klassenarbeit 1.

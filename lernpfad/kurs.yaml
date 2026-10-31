@@ -28,7 +28,7 @@ stufen:
     name: "Block III: Kosten, Kennzahlen, Transport (LS 66, 67, 68)"
     icon: "🚚"
     text: Eigen- oder Fremdlager, Lagerkennzahlen und die passende Transportform.
-    module: [ls66, ls67, ls68, fg3]
+    module: [ls66, ls67, ls68, ka1]
 
 # selbstcheck:            # optional: kurzer Selbsteinschätzungs-Check auf der Startseite
 
