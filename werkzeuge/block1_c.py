@@ -32,10 +32,11 @@ def lernatelier_ls64(pfad):
         ("1, 2, 3, 6, 13", "Du willst Warenfluss, 7-R-Regel und Push/Pull sicher können."),
         ("4, 5, 7, 10, 12, 14", "Du kannst die Grundlagen und willst Zusammenhänge, Rechnungen (Kanban) und Rechtliches vertiefen."),
         ("8, 9, 11, 15 und Zusatzaufgaben", "Du überträgst auf den Betrieb oder entwickelst eigene Lösungen."),
-        [("Basis", "Just-in-Time und Just-in-Sequence erklären (IHK-Katalog)",
-          "a) Erkläre Just-in-Time und Just-in-Sequence in eigenen Worten und nenne je ein Beispiel (zum Beispiel aus der "
-          "Automobilindustrie).\nb) Welche Voraussetzungen müssen Lieferant und Abnehmer erfüllen? Nenne zwei Vorteile und zwei "
-          "Nachteile."),
+        [("Basis", "Info-Blatt 4.2: Just-in-Time und Just-in-Sequence (IHK-Katalog)",
+          "Lies das Info-Blatt „Just-in-Time vs. Just-in-Sequence“ (Ergänzendes Material).\na) Erkläre beide Verfahren in eigenen Worten.\n"
+          "b) Ordne zu, ob Just-in-Time oder Just-in-Sequence passt: Sitze für verschieden ausgestattete Autos, Schrauben, "
+          "Außenspiegel in Wunschfarbe, einfache Standardteile. Nenne je ein weiteres Beispiel aus Industrie oder Handel.\n"
+          "c) Warum ist die Reihenfolge der Lieferung bei vielen Varianten so wichtig?"),
          ("Plus", "Passt Just-in-Time zur Fly Bike Werke GmbH?",
           "Die Fly Bike Werke GmbH erwägt, einzelne Teile per Just-in-Time zu beziehen. Prüfe für drei Teile (zum Beispiel "
           "Flügelschrauben, Aluminiumrohre aus Deutschland, E-Bike-Batterien aus Asien), ob Just-in-Time oder ein Sicherheitsbestand "
@@ -55,7 +56,12 @@ def lernatelier_ls65(pfad):
         ("2, 4, 5, 6, 13, 16, 18, 20", "Du willst Lagerfunktionen, Wareneingang und Lagerformen sicher können."),
         ("7, 10, 11, 15, 17, 19, 23", "Du vertiefst Kommissionierung, Flächenberechnung und Entscheidungen."),
         ("8, 9, 14, 21, 22, 24 und Zusatzaufgaben", "Du überträgst auf den Betrieb oder entwickelst eigene Lösungen."),
-        [("Plus", "Zentral, dezentral oder beides? Die drei Lager der Fly Bike Werke GmbH",
+        [("Basis", "Fachartikel „Erfolgsfaktor Kommissionierung“ (Ergänzendes Material)",
+          "Lies den Fachartikel und beantworte: a) Warum spielt die Kommissionierung für den Markterfolg eine Schlüsselrolle? "
+          "b) Vergleiche „Mann zur Ware“ und „Ware zum Mann“ nach Investitionen, Personalbedarf, Fehleranfälligkeit und Eignung. "
+          "c) Erkläre Festplatzsystem und Freiplatzsystem und nenne einen Vor- und einen Nachteil des Freiplatzsystems. "
+          "d) Wie helfen „Ziffern statt Wörter“ und die GTIN-Codierung, Kommissionierfehler zu vermeiden?"),
+         ("Plus", "Zentral, dezentral oder beides? Die drei Lager der Fly Bike Werke GmbH",
           "Die Fly Bike Werke GmbH hat Lager am Stammsitz, in Dresden und in München. Nutze deine Ergebnisse aus LS 64 (hohe "
           "Bestände, Nachfrageschwankung) und LS 65. Soll das neue Lager am Stammsitz die Lager in Dresden und München ersetzen, "
           "ergänzen oder bleiben diese bestehen? Vergleiche Kosten, Lieferzeit zu den Händlern, Bestände und Sicherheit und gib "
@@ -130,11 +136,14 @@ def loesungen_ls64_teil2(pfad):
     d.tabelle(["Aufgabe", "Lösungsvorschlag"], [[a, b] for a, b in L], [2.6, 14.4])
     d.h2("Zusatzaufgaben")
     d.tabelle(["Aufgabe", "Erwartungen"], [
-        ["Basis: JIT und JIS", "a) Just-in-Time: Material kommt genau zum benötigten Zeitpunkt in der benötigten Menge, es entsteht fast "
-         "kein Lager. Just-in-Sequence: zusätzlich in der Reihenfolge der Produktion (zum Beispiel Sitze genau in der Reihenfolge der "
-         "Fahrzeuge am Band). b) Voraussetzungen: zuverlässige Lieferanten, kurze Wege oder räumliche Nähe, planbare Nachfrage, enge "
-         "Informationsverbindung (EDI), hohe Qualität ohne Nacharbeit. Vorteile: weniger Kapitalbindung, Lagerkosten und Fläche. "
-         "Nachteile: Störungen stoppen die Produktion, Abhängigkeit, viele kleine Transporte (Verkehr, Emissionen)."],
+        ["Basis: Info-Blatt JIT und JIS", "a) Nach dem Info-Blatt: Just-in-Time: Teile kommen zum benötigten Zeitpunkt, die Reihenfolge spielt "
+         "keine Rolle, Lagerkosten sind minimal, ein Sortieraufwand kann nötig sein. Just-in-Sequence: Teile kommen zum exakten "
+         "Zeitpunkt und in der benötigten Reihenfolge, kaum Zwischenlagerung und kein Sortieraufwand; Lieferanten und Hersteller "
+         "stimmen sich eng ab. b) JiS: Sitze für unterschiedlich ausgestattete Autos, Außenspiegel in Wunschfarbe (viele Varianten). "
+         "JiT: Schrauben, einfache Standardteile. Eigene Beispiele sind möglich (JiS zum Beispiel Cockpits oder Türverkleidungen, "
+         "JiT zum Beispiel Verpackungsmaterial). c) Bei vielen Varianten muss jedes Teil genau zum richtigen Fahrzeug passen; sonst "
+         "entstehen Sortierarbeit, Lager und Wartezeiten. Weitere Voraussetzungen und Risiken: zuverlässige Lieferanten, kurze Wege, "
+         "Informationsverbindung; Störungen stoppen die Produktion."],
         ["Plus: JIT bei der Fly Bike Werke GmbH", "Erwartung: JIT eignet sich für Teile von regionalen, zuverlässigen Lieferanten und "
          "planbarer Nachfrage (zum Beispiel Flügelschrauben, Aluminiumrohre aus Deutschland). Für importierte Teile mit langen "
          "Lieferwegen und Risiken (zum Beispiel Batterien aus Asien) ist ein Sicherheitsbestand besser. JIS kann in der Endmontage bei "
@@ -244,6 +253,17 @@ def loesungen_ls65_teil2(pfad):
     d.tabelle(["Aufgabe", "Lösungsvorschlag"], [[a, b] for a, b in L], [2.6, 14.4])
     d.h2("Zusatzaufgaben")
     d.tabelle(["Aufgabe", "Erwartungen"], [
+        ["Basis: Fachartikel Kommissionierung", "a) Eine schnelle Lieferung ist für viele Kunden kaufentscheidend; nur versandfertige Ware kann "
+         "transportiert werden, deshalb ist die Kommissionierung der Schlüssel; Sorgfalt geht vor Schnelligkeit. b) Ware zum Mann: hohe "
+         "Investitionen in Lager- und Fördertechnik und Software, wenig Personal, weitgehend automatisiert, weniger fehleranfällig, "
+         "kürzere Kommissionierzeit, besonders sinnvoll bei Hochregallagern. Mann zur Ware: personalkostenintensiv, geringere "
+         "Investitionen, flexibel, funktioniert bei Festplatz- und Freiplatzsystem. c) Festplatzsystem: Jeder Artikel hat einen festen "
+         "Platz, schnell zu finden, schnelldrehende Artikel nahe am Kommissionierplatz; Freiplatzsystem (chaotische Lagerhaltung): "
+         "Eingelagert wird, wo Platz frei ist, ein Lagerverwaltungssystem findet die Lagerorte. Vorteil: gute Flächennutzung. "
+         "Nachteil: Software nötig, ein Artikel kann an mehreren Orten liegen und muss zusammengetragen werden. d) Ziffern sind "
+         "sprachunabhängig und vermeiden Missverständnisse (Schraubenzieher/Schraubendreher); beim Scannen der GTIN vergleicht der "
+         "Scanner Beleg und Produkt und meldet Abweichungen optisch oder akustisch; die Nummer ist weltweit eindeutig. Grenzen: "
+         "unleserliche Codes, falsch gebuchter Lagerplatz."],
         ["Plus: Zentral, dezentral oder beides", "Vergleich nach Kosten (Fixkosten mehrerer Lager, Transportkosten), Lieferzeit zu den "
          "Händlern in Süd- und Ostdeutschland, Bestände (mehr Sicherheitsbestände bei mehreren Lagern), Sicherheit und Verwaltung. "
          "Gute Lösungen empfehlen begründet eine Variante, zum Beispiel zentrales Lager mit Regionallager für schnelle Lieferung."],

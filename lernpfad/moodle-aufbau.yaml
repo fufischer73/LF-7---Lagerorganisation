@@ -14,6 +14,9 @@ advance_organizer:
     - {titel: "Selbsteinschätzung LF7 (Kann-Liste)", icon: kannliste}
     - {titel: "Vorlage Punktekonto LF7"}
     - {titel: "Wochenplan LF7"}
+    - titel: "KI-Assistent Logistik- und Lagerprozesse (LF7)"
+      icon: orientierung
+      text: "Dieser Link führt dich zu einem KI-Assistenten, der dich bei den Lernsituationen 64 bis 70 unterstützt. Er gibt Hinweise und stellt Rückfragen, löst aber nicht deine Aufgaben. Gib keine persönlichen Daten oder Betriebsgeheimnisse ein."
 
 bloecke:
   - titel: "Block I: Logistik- und Lagerkonzept (LS64 - LS65)"
@@ -43,13 +46,15 @@ bloecke:
             - {titel: "LS64 - Lösungen Teil 1"}
         lernatelier:
           text: |
-            Hier findet ihr die Aufgaben zur LS64, die Lösungen und die Zusatzaufgaben (Just-in-Time und Just-in-Sequence, Lieferkette und Verantwortung).
+            Hier findet ihr die Aufgaben zur LS64, die Lösungen und die Zusatzaufgaben (Info-Blatt zu Just-in-Time und Just-in-Sequence, Lieferkette und Verantwortung).
 
             Hinweis: Bearbeite nicht alle Aufgaben, sondern übe gezielt die Themen, bei denen du Bedarf hast.
           links:
             - {titel: "LS64: Aufgaben aus dem Arbeitsheft (Seiten 77 bis 79)"}
             - {titel: "LS64: Aufgabenauswahl nach Niveau und Zusatzaufgaben"}
             - {titel: "LS64 - Lösungen Teil 2"}
+          zusatz:
+            - {titel: "Info-Blatt 4.2: Just-in-Time vs. Just-in-Sequence"}
         verarbeitung:
           text: "Hier findest du die Lösungen zu den Alles-klar-Aufgaben Kapitel 1. Prüfe danach deine Kann-Liste."
           links:
@@ -65,6 +70,8 @@ bloecke:
             Bearbeitet im Team die Arbeitsaufträge 1 bis 5 der Lernsituation. Ihr braucht die Arbeitsblätter 65.1 bis 65.3 und die Buchkapitel. Eure Ergebnisse sind Teil B des Handlungsprodukts 1.
           links:
             - {titel: "LS65: Aufgaben und Arbeitsblätter"}
+          zusatz:
+            - {titel: "Fachartikel: Erfolgsfaktor Kommissionierung (Die Großhandelskaufleute 03/2021)"}
         loesungen:
           links:
             - {titel: "LS65 - Lösungen Teil 1"}
@@ -77,6 +84,8 @@ bloecke:
             - {titel: "LS65: Aufgaben aus dem Arbeitsheft (Seiten 84 bis 88)"}
             - {titel: "LS65: Aufgabenauswahl nach Niveau und Zusatzaufgaben"}
             - {titel: "LS65 - Lösungen Teil 2"}
+          zusatz:
+            - {titel: "Fachartikel: Erfolgsfaktor Kommissionierung (Aufgaben dazu in der Aufgabenauswahl)"}
         verarbeitung:
           text: "Hier findest du die Lösungen zu den Alles-klar-Aufgaben Kapitel 2. Prüfe danach deine Kann-Liste."
           links:
