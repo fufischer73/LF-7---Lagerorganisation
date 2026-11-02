@@ -1,48 +1,93 @@
-# Prüfung Warenbegleitpapiere (Lernfeld 7) – ABGEBROCHEN
+# Prüfung Warenbegleitpapiere und Warenwertpapiere (LF 7)
 
-**Stand:** Die Prüfung konnte nicht durchgeführt werden, weil die Gesetzestexte nicht abrufbar waren.
+**Grundlage:** Der Wortlaut stammt aus der von der Lehrkraft bereitgestellten Datei `HGB_Lagerlogistik_Paragraphen.docx`. Die Seite gesetze-im-internet.de war in dieser Sitzung nicht erreichbar (Proxy 403 bzw. ENOTFOUND). Der Auszug wurde deshalb **nicht** mit der amtlichen Fassung abgeglichen, und sein Stand ist unbekannt. Alle Zitate unten stammen aus diesem Auszug. Was darin fehlt, ist als „nicht prüfbar" markiert.
 
-## Abbruchgrund
-
-- `curl` auf `https://www.gesetze-im-internet.de/hgb/__<Nr>.html` (alle 18 Paragraphen): Proxy-Antwort **403** („CONNECT tunnel failed"), Host nicht freigegeben.
-- `WebFetch` auf `https://www.gesetze-im-internet.de/hgb/__515.html`: **ENOTFOUND** (Host liegt außerhalb der erlaubten Netzwerk-Domains der Sitzung).
-- Folge: Es liegt kein Wortlaut von § 363, 407, 408, 409, 418, 443, 444, 448, 475c, 475g, 513, 514, 515, 516, 524 HGB vor. Auch § 447 BGB sowie §§ 431 und 461 HGB wurden nicht geprüft.
-- Vereinbarungsgemäß wurde nichts aus dem Gedächtnis ergänzt: keine Zitate, keine Paragraphenbewertung.
-- **Nächster Schritt:** `www.gesetze-im-internet.de` in den Netzwerkeinstellungen der Umgebung freigeben und die Prüfung neu starten.
+Das Info-Blatt und das Arbeitsblatt selbst lagen nicht vor. Geprüft wurden die im Auftrag genannten Aussagen und Formulierungen. Die Musterlösung des Schulbuchs ist unbekannt. Bei Teil C wird daher nur geprüft, ob die Aussagen rechtlich tragen.
 
 ## (1) Kurzfazit
 
-1. Die fachliche und rechtliche Prüfung ist nicht erfolgt.
-2. Grund: Die Seite gesetze-im-internet.de war aus der Sitzung nicht erreichbar (403 bzw. ENOTFOUND).
-3. Daher gibt es keine belegten Ergebnisse zu den Aussagen im Info-Blatt, im Arbeitsblatt und in den Schulbuchaufgaben.
-4. Ohne Beleg wurden weder Paragraphen noch Zitate genannt.
-5. Nach Freigabe der Domain kann die Prüfung unverändert wiederholt werden.
+1. Die Paragraphenangaben im Info-Blatt sind teilweise falsch: Die Wirkung des Konnossements regelt § 524 HGB (nicht § 515, der den Inhalt regelt). Ladeschein und Orderlagerschein haben ihre Traditionswirkung in §§ 448 und 475g. § 443 und § 475c regeln nur die Ausstellung.
+2. Die Aussage „Der Erwerber ist automatisch Eigentümer" ist falsch. Die Traditionswirkung ersetzt nur die Übergabe des Gutes beim Erwerb von Rechten, und nur, solange der Frachtführer, Lagerhalter oder Verfrachter das Gut im Besitz hat (§§ 448, 475g, 524).
+3. Die Beschreibung des Frachtbriefs („beschränkt sich auf …", „beweist nur den Abschluss des Frachtvertrags") ist unvollständig und teilweise falsch. § 409 nennt Abschluss und Inhalt des Frachtvertrags, die Übernahme des Gutes, den äußerlich guten Zustand sowie Anzahl, Zeichen, Nummern und (bei Überprüfung) Gewicht und Inhalt. Die Rechtsgrundlage ist nicht nur § 408, sondern auch § 409 und § 418 Abs. 4.
+4. Die Sperrfunktion im Arbeitsblatt ist falsch formuliert. Nach § 418 Abs. 4 kann der Absender sein Verfügungsrecht nur gegen Vorlage der Absenderausfertigung ausüben, und nur, wenn das im Frachtbrief vorgeschrieben ist.
+5. Konnossement, Ladeschein und Lagerschein sind nach dem Auszug Warenwertpapiere (Traditionspapiere). „Beides" ist nur als Zusatz haltbar, zum Beispiel als Beweis für Übernahme und Frachtvertrag. Die Begriffe „Warenbegleitpapier" und „Warenwertpapier" stehen nicht im HGB-Auszug. Ob sie als „beides" gelten, ist eine didaktische Festlegung, die der Auszug nicht belegt.
 
-## (2) Tabelle
+## (2) Prüftabelle
 
-| Aussage | Fundstelle (Paragraph, kurzer Wortlaut) | Ergebnis | Vorschlag |
+Die Fundstellen stehen sinngemäß oder wörtlich in Anführungszeichen. Alle sind dem Auszug entnommen.
+
+| Aussage | Fundstelle (Paragraph, kurzer Wortlaut) | Ergebnis | Vorschlag für bessere Formulierung |
 |---|---|---|---|
-| A1 Begleitpapiere dokumentieren, Traditionspapiere verbriefen Herausgabeanspruch | nicht abgerufen | nicht prüfbar | – |
-| A2 Erwerber automatisch Eigentümer | nicht abgerufen | nicht prüfbar | – |
-| A3 Konnossement § 515, Ladeschein § 443, Orderlagerschein § 475c, „beides" | nicht abgerufen | nicht prüfbar | – |
-| A4 Frachtbrief: Funktionen, § 408 | nicht abgerufen | nicht prüfbar | – |
-| A5 Tabelle Begleit-/Wertpapiere | nicht abgerufen | nicht prüfbar | – |
-| A6 Banken, Kreditsicherheit | nicht abgerufen | nicht prüfbar | – |
-| B Arbeitsblatt: Funktionen, reine/unreine Quittung, Sperrfunktion, Kann-Papier, Zuordnungstabelle | nicht abgerufen | nicht prüfbar | – |
-| C Schulbuch Aufgabe 8 und 9 | nicht abgerufen | nicht prüfbar | – |
+| **A1** Begleitpapiere dokumentieren den Transport, übertragen kein Eigentum. Warenwertpapiere verbriefen einen Herausgabeanspruch auf bewegliche Sachen und ersetzen die Sache, über die per Übergabe des Papiers verfügt werden kann. | § 443 Abs. 1: Ladeschein „über die Verpflichtung zur Ablieferung des Gutes". § 475c Abs. 1: Lagerschein „über die Verpflichtung zur Auslieferung des Gutes". §§ 448, 475g, 524: Begebung hat „für den Erwerb von Rechten an dem Gut dieselben Wirkungen wie die Übergabe des Gutes". | ungenau | „Warenwertpapiere (Traditionspapiere) verbriefen den Anspruch auf Ablieferung bzw. Auslieferung des Gutes. Ihre Übergabe oder Übertragung hat beim Erwerb von Rechten am Gut dieselbe Wirkung wie die Übergabe des Gutes, solange der Frachtführer, Lagerhalter oder Verfrachter das Gut im Besitz hat." Das Papier „ersetzt" die Sache nicht. |
+| **A2** „Der neue Erwerber ist kraft Gesetzes nicht nur Inhaber der Urkunde, sondern automatisch auch Eigentümer der Waren." | §§ 448, 475g, 524: nur „dieselben Wirkungen wie die Übergabe des Gutes", und nur „sofern [der Frachtführer/Lagerhalter/Verfrachter] das Gut im Besitz hat". Eine Eigentumsübertragung „kraft Gesetzes" steht dort nicht. Die Voraussetzungen des Eigentumserwerbs (BGB) sind im Auszug nicht enthalten. | falsch | „Wer das Papier erwirbt, erhält Rechte am Gut so, als wäre ihm das Gut übergeben worden. Ob er Eigentümer wird, hängt zusätzlich von den Voraussetzungen des Eigentumserwerbs ab (zum Beispiel Einigung und Berechtigung)." |
+| **A3a** Die drei wichtigsten Traditionspapiere nach HGB in Verbindung mit § 363. | § 363 Abs. 2: „Konnossemente der Verfrachter, Ladescheine der Frachtführer, Lagerscheine … können durch Indossament übertragen werden, wenn sie an Order lauten." Das stimmt mit der Aufzählung überein. | richtig | Hinweis ergänzen: Das Indossament gilt nur für Orderpapiere, also wenn das Papier „an Order lautet". |
+| **A3b** Konnossement § 515, Ladeschein § 443, Orderlagerschein § 475c, jeweils als Wirkungsnorm. | § 515 = „Inhalt des Konnossements". § 443 = „Ladeschein" (Ausstellung). § 475c = „Lagerschein" (Ausstellung). Die Traditionswirkung steht in § 524, § 448 und § 475g. | falsch (Paragraphen) | Konnossement: § 513 (Ausstellung), § 514 (Funktion), § 524 (Traditionswirkung). Ladeschein: §§ 443, 444, 448. Lagerschein: §§ 475c, 475g. Jeweils in Verbindung mit § 363 Abs. 2 (Indossament). |
+| **A3c** Ladeschein „Binnenschifffahrt", Konnossement „Seeschifffahrt", Orderlagerschein „Lagerung". | § 443 Abs. 1: „vom Frachtführer" ausgestellt, ohne Beschränkung auf die Binnenschifffahrt. § 513: Konnossement beim „Stückgutfrachtvertrag" des „Verfrachters". Konnossement und Verfrachter sind der Seefracht zuzuordnen, was dem Auszug aber nicht ausdrücklich zu entnehmen ist. | ungenau | Ladeschein: „vom Frachtführer ausgestellt". Eine Beschränkung auf die Binnenschifffahrt lässt sich aus dem Auszug nicht belegen. Der Begriff „Orderlagerschein" steht nicht im Auszug, dort heißt es „Lagerschein" (Order nach § 363 Abs. 2). |
+| **A3d** „Diese sind BEIDES, Warenbegleitpapiere UND Warenwertpapiere." | Der Auszug ordnet sie als Papiere mit Traditionswirkung ein (§§ 448, 475g, 524). Der Begriff „Warenbegleitpapier" kommt im HGB-Auszug nicht vor. § 514 Abs. 1: Das Konnossement „bestätigt … den Empfang des Gutes". § 444 Abs. 1: Der Ladeschein begründet die Vermutung, dass das Gut so übernommen wurde, wie beschrieben. | ungenau | Besser: „Warenwertpapiere. Sie bestätigen zugleich die Übernahme des Gutes und die Beförderungs- bzw. Lagerpflicht, sie begleiten die Ware aber nicht wie ein Lieferschein." |
+| **A4a** Frachtbrief: „Seine Funktion beschränkt sich auf die Abladebestätigung und auf das Sperrpapier." | § 409 Abs. 1–3: Nachweis (bis zum Beweis des Gegenteils) für Abschluss und Inhalt des Frachtvertrags und Übernahme des Gutes. Außerdem Vermutung für äußerlich guten Zustand sowie Anzahl, Zeichen und Nummern der Frachtstücke, bei Überprüfung auch für Gewicht, Menge und Inhalt. § 418 Abs. 4: Verfügung nur gegen Vorlage der Absenderausfertigung. Der Begriff „Abladebestätigung" steht nicht im Auszug. | falsch | „Der Frachtbrief hat vor allem Beweisfunktion (Vertrag, Übernahme, Zustand, Menge). Er kann als Sperrpapier wirken, wenn er so vorgeschrieben ist, und enthält die Angaben für die Abrechnung." |
+| **A4b** Frachtbrief: „Beweist nur den Abschluss eines Frachtvertrags." | § 409 Abs. 1: „Abschluß und Inhalt des Frachtvertrages sowie … die Übernahme des Gutes". | falsch | „… beweist Abschluss und Inhalt des Frachtvertrags und die Übernahme des Gutes (jeweils bis zum Beweis des Gegenteils)." Der Beweis gilt nur für den von **beiden Parteien unterzeichneten** Frachtbrief. |
+| **A4c** Frachtbrief: „Ist ein Warenbegleitpapier, kein Warenwertpapier. Überträgt kein Eigentum." | Im Auszug hat nur Ladeschein (§ 448), Lagerschein (§ 475g) und Konnossement (§ 524) Traditionswirkung. Für den Frachtbrief steht eine solche Regel nicht im Auszug. § 418 Abs. 4 betrifft nur die Ausübung des Verfügungsrechts. | richtig | Zusatz: „Der Frachtbrief ist kein Traditionspapier. Eine Verfügung über das Gut ist durch ihn nicht möglich, § 418 Abs. 4 regelt nur die Vorlage zur Ausübung des Weisungsrechts." |
+| **A4d** Frachtbrief: „Rechtsgrundlage § 408 HGB." | § 408 = „Frachtbrief" mit Inhalt, drei Originalausfertigungen, elektronischem Frachtbrief. § 409 = Beweiskraft, § 418 = nachträgliche Weisungen. | ungenau | „§§ 408, 409, 418 Abs. 4 HGB." |
+| **A5a** Tabelle: Lieferschein, Packliste, Rechnung sind Warenbegleitpapiere, keine Warenwertpapiere. | Im Auszug nicht geregelt. | nicht prüfbar | – (siehe Liste in Teil 4) |
+| **A5b** Tabelle: Frachtbrief ist Warenbegleitpapier. Das Original „begleitet das Gut". | § 408 Abs. 2 Satz 4: „eine begleitet das Gut". | richtig | – |
+| **A5c** Tabelle: Konnossement, Ladeschein, Orderlagerschein „übertragen Eigentum". | §§ 448, 475g, 524: „dieselben Wirkungen wie die Übergabe des Gutes" beim „Erwerb von Rechten". | falsch | „Übergabe/Übertragung des Papiers wirkt wie Übergabe des Gutes (Traditionswirkung)." |
+| **A6a** „Banken akzeptieren nur Warenwertpapiere als Kreditsicherheit." | Im Auszug nicht geregelt. §§ 448, 475g, 524 sprechen allgemein vom „Erwerb von Rechten an dem Gut". Das Wort „nur" lässt sich nicht belegen. | nicht prüfbar | „Warenwertpapiere eignen sich als Kreditsicherheit, weil mit ihnen Rechte am Gut erworben werden können (Praxis der Banken)." |
+| **A6b** Konnossement kann als Sicherheit dienen, Frachtbrief nicht. | § 524 (Rechte am Gut durch Begebung) im Gegensatz zum Frachtbrief ohne Traditionswirkung. Die Verpfändung selbst ist im Auszug nicht geregelt. | nicht prüfbar (Tendenz plausibel) | siehe A6a |
+| **B1** Wichtig für die Überprüfung des Vertrags: Beweisfunktion (statt Abrechnungsgrundlage, Quittungsfunktion, Sperrfunktion). | § 409 Abs. 1: „Nachweis für Abschluß und Inhalt des Frachtvertrages". § 408 Abs. 1 Nr. 9 enthält auch die Frachtangaben, die zur Abrechnung dienen können. | richtig (aber mehrdeutig) | Frage genauer fassen: „… zum Nachweis von Abschluss und Inhalt des Vertrags". Dann ist die Beweisfunktion eindeutig. |
+| **B2** „Reine Quittung" = Güter in einwandfreiem Zustand angekommen. | § 409 Abs. 2: Vermutung, dass Gut und Verpackung „bei der Übernahme durch den Frachtführer in äußerlich gutem Zustand" waren, wenn der Frachtführer keinen „begründeten Vorbehalt" eingetragen hat. Der Begriff „Quittung" steht nicht im Auszug. | falsch/ungenau | „Reiner Frachtbrief (ohne Vorbehalt): Der Frachtführer hat das Gut bei der **Übernahme** in äußerlich gutem Zustand erhalten (Vermutung)." Nicht „angekommen", nicht „einwandfrei". |
+| **B3** „Unreine Quittung" = Güter weisen bei Übernahme oder Ablieferung Mängel auf. | § 409 Abs. 2 Satz 2: Mit einem „begründeten Vorbehalt" des Frachtführers im Frachtbrief gilt die Vermutung nicht. Der Auszug nennt nur die Übernahme. Zur Ablieferung gibt es keine Regel. | ungenau | „Unrein: Der Frachtführer hat bei der Übernahme einen begründeten Vorbehalt in den Frachtbrief eingetragen (zum Beispiel beschädigte Verpackung)." |
+| **B4** Sperrfunktion: „Der Absender kann keine nachträglichen Weisungen erteilen, nachdem der Frachtbrief aus der Hand gegeben wurde." | § 418 Abs. 4: „Ist ein Frachtbrief ausgestellt und von beiden Parteien unterzeichnet worden, so kann der Absender sein Verfügungsrecht nur gegen Vorlage der Absenderausfertigung des Frachtbriefs ausüben, sofern dies im Frachtbrief vorgeschrieben ist." § 418 Abs. 1: Der Absender hat grundsätzlich das Verfügungsrecht. § 418 Abs. 2: Es erlischt mit Ankunft des Gutes, dann hat es der Empfänger. | falsch | „Sperrfunktion: Ist das im Frachtbrief vorgeschrieben, kann der Absender nachträgliche Weisungen nur gegen Vorlage seiner Ausfertigung (Absenderausfertigung) erteilen. Ohne sie ist der Frachtführer nicht zur Ausführung verpflichtet bzw. haftet bei Ausführung (§ 418 Abs. 6)." |
+| **B5** Frachtbrief als „Kann-Papier" (optional). | § 408 Abs. 1: „Der Frachtführer **kann** die Ausstellung eines Frachtbriefes … verlangen". | richtig (ungenau) | „Die Ausstellung ist nicht zwingend, der Frachtführer kann sie verlangen." Der Anspruch liegt beim Frachtführer, nicht beim Absender. |
+| **B6** Zuordnungstabelle CMR, B/L, FCR, FCT, FBL, AWB, CIM, SWR. | Keine dieser Abkürzungen steht im HGB-Auszug. B/L = Konnossement: §§ 363 Abs. 2, 513, 514 (handelbar durch Indossament nur, wenn „an Order"). | nicht prüfbar (B/L: teils bestätigt) | B/L präzisieren: „Konnossement, als Orderpapier durch Indossament übertragbar". |
+| **C8** Aufgabe 8: Konnossement, Ladeschein, Lagerschein = Warenwertpapier (2). | §§ 524, 448, 475g (Traditionswirkung). | richtig | – |
+| **C8b** Aufgabe 8: Frachtbrief = Warenbegleitpapier (1). | § 408 Abs. 2 (begleitet das Gut), kein Traditionspapier im Auszug. | richtig | – |
+| **C8c** Aufgabe 8: Ursprungszeugnis, Zollfaktura, Packliste = Warenbegleitpapier (1). | Im Auszug nicht geregelt. | nicht prüfbar | – |
+| **C9a** „Dokument kann mehrfach ausgestellt werden, da es lediglich Informationen zur Warenlieferung enthält" = (1). | § 408 Abs. 2: Frachtbrief in drei Originalausfertigungen. Aber § 514 Abs. 3: Das Konnossement ist „in der vom Ablader geforderten Anzahl von Originalausfertigungen auszustellen". | ungenau | Die Begründung „da es lediglich Informationen enthält" stimmt nicht allgemein. Auch Warenwertpapiere gibt es in mehreren Originalen. Zuordnung (1) ist nur über die Begründung plausibel. |
+| **C9b** „Verkörpert das Eigentum an der dokumentierten Ware" = (2). | §§ 448, 475g, 524: Wirkung der Übergabe „für den Erwerb von Rechten an dem Gut". | ungenau | „Verkörpert den Anspruch auf Ablieferung und wirkt bei der Übergabe wie die Übergabe der Ware." „Eigentum" ist juristisch zu stark. |
+| **C9c** „Der Verlust führt zu keinen nennenswerten Nachteilen für den Warenempfänger" = (1). | § 445 Abs. 2: Ablieferung „nur gegen Rückgabe des Ladescheins". § 514 Abs. 1: „gegen Rückgabe des Konnossements". Für Begleitpapiere im Auszug nicht geregelt. | richtig für Warenwertpapiere (Gegenstück), sonst nicht prüfbar | – |
+| **C9d** „Eine Verfügung über die Ware ist nur bei Vorlage des Originaldokuments möglich" = (2). | § 445 Abs. 2 (Ladeschein), § 514 Abs. 1 (Konnossement). Aber auch § 418 Abs. 4 verlangt beim Frachtbrief die Vorlage der Absenderausfertigung, wenn vorgeschrieben. | ungenau | Als Merkmal für Warenwertpapiere gebräuchlich. Mit dem Frachtbrief (Sperrfunktion) kann die Aussage zur Verwechslung führen. Zusatz: „… und die Ware wird nur gegen Rückgabe des Papiers abgeliefert". |
+| **C9e** „Das Dokument kann anstelle der physischen Ware für einen Kredit verpfändet werden" = (2). | Die Verpfändung ist im Auszug nicht geregelt. Nur „Erwerb von Rechten an dem Gut" (§§ 448, 475g, 524). | nicht prüfbar | – |
 
-## (3) Korrigierter Text des Info-Blatts
+**Zur Abgrenzung (Zusatzparagraphen):**
+- § 447 HGB (Einwendungen gegen den aus dem Ladeschein Berechtigten) gehört zum Ladeschein und stützt dessen Wertpapiercharakter. Er ist aber nicht für die Unterrichtsfragen nötig.
+- Die §§ 431 und 461 HGB (Haftungshöchstbetrag, Haftung des Spediteurs) gehören **nicht** zum Thema.
+- Der in der Aufgabenstellung genannte **§ 447 BGB** (Gefahrübergang) war nicht im Auszug. Er wurde nicht geprüft.
 
-Entfällt, da ohne geprüfte Rechtsgrundlage kein belastbarer Korrekturvorschlag möglich ist.
+## (3) Vorschlag: korrigierter Text für das Info-Blatt (höchstens eine Seite)
+
+**Warenbegleitpapiere und Warenwertpapiere**
+
+**Warenbegleitpapiere** begleiten die Lieferung und dokumentieren den Transport, zum Beispiel Lieferschein, Packliste, Rechnung und Frachtbrief. Sie übertragen **kein** Recht am Gut. Wer sie besitzt, kann damit nicht über die Ware verfügen.
+
+**Warenwertpapiere (Traditionspapiere)** verbriefen den Anspruch auf Ablieferung bzw. Auslieferung des Gutes. Werden sie an den benannten Empfänger begeben oder an Dritte übertragen, hat das beim Erwerb von Rechten am Gut dieselbe Wirkung wie die Übergabe des Gutes (§§ 448, 475g, 524 HGB). Voraussetzung: Der Frachtführer, Lagerhalter oder Verfrachter hat das Gut im Besitz. Wer das Papier erwirbt, ist nicht automatisch Eigentümer. Das hängt zusätzlich von den Voraussetzungen des Eigentumserwerbs ab.
+
+**Die drei Traditionspapiere im HGB** (übertragbar durch Indossament, wenn sie „an Order" lauten, § 363 Abs. 2):
+
+| Papier | Aussteller | Ausstellung | Traditionswirkung |
+|---|---|---|---|
+| Konnossement | Verfrachter | §§ 513, 514 | § 524 |
+| Ladeschein | Frachtführer | § 443 | § 448 |
+| Lagerschein | Lagerhalter | § 475c | § 475g |
+
+Sie sind Warenwertpapiere. Sie bestätigen zugleich die Übernahme des Gutes. Das Gut wird nur gegen Rückgabe des Papiers abgeliefert (§ 445 Abs. 2, § 514 Abs. 1).
+
+**Frachtbrief (§§ 408, 409, 418 Abs. 4 HGB)**
+- Der Frachtführer **kann** die Ausstellung verlangen (Kann-Papier). Er wird in drei Originalen ausgestellt. Eines begleitet das Gut.
+- **Beweisfunktion:** Der von beiden Parteien unterzeichnete Frachtbrief beweist (bis zum Beweis des Gegenteils) Abschluss und Inhalt des Frachtvertrags und die Übernahme des Gutes. Er begründet die Vermutung für den äußerlich guten Zustand sowie für Anzahl, Zeichen und Nummern der Frachtstücke. Ein begründeter Vorbehalt des Frachtführers hebt die Vermutung auf („unreiner" Frachtbrief).
+- **Sperrfunktion:** Ist es im Frachtbrief vorgeschrieben, kann der Absender nachträgliche Weisungen nur gegen Vorlage der Absenderausfertigung erteilen (§ 418 Abs. 4).
+- Der Frachtbrief ist **kein** Warenwertpapier. Er hat keine Traditionswirkung und eignet sich nicht als Sicherheit für den Erwerb von Rechten am Gut.
+
+**Kreditsicherheit:** Warenwertpapiere werden in der Praxis als Sicherheit genutzt, weil mit ihnen Rechte am Gut erworben werden können. Eine gesetzliche Regel dazu enthält der geprüfte Auszug nicht.
 
 ## (4) Nicht prüfbare Stellen
 
-Alle Stellen aus Teil A, B und C der Aufgabenstellung, insbesondere:
-- die Paragraphenangaben (§ 363, § 408, § 418, § 443, § 475c, § 515 HGB);
-- die Einordnung von Konnossement, Ladeschein und Orderlagerschein als „beides" oder nur als Warenwertpapier;
-- die Funktionen des Frachtbriefs im Info-Blatt;
-- die Formulierung der Sperrfunktion im Arbeitsblatt;
-- die Zuordnungstabelle (CMR, B/L, FCR, FCT, FBL, AWB, CIM, SWR);
-- die Schulbuchaufgaben 8 und 9.
-
-Hinweis: Die Info-Blatt- und Arbeitsblatt-Dateien selbst wurden ebenfalls nicht im Repository gesucht oder gelesen, da die Prüfung vor diesem Schritt abgebrochen wurde.
+- **Quelle:** Der Wortlaut wurde nicht mit gesetze-im-internet.de abgeglichen. Der Stand der Fassung im Auszug ist unbekannt.
+- **Abgeschnittener Text im Auszug:** § 407 Abs. 3 und § 475c Abs. 4 brechen mitten im Satz ab, bei § 444 Abs. 3 fehlen die Aufzählungszeichen. Ob der Frachtvertrag formfrei ist, ließ sich aus § 407 nicht prüfen.
+- **Eigentumserwerb:** Die BGB-Vorschriften zur Eigentumsübertragung und zur Verpfändung (zum Beispiel § 929 BGB, §§ 1204 ff. BGB) sind nicht im Auszug und wurden nicht geprüft. Auch der in der Aufgabe genannte § 447 BGB (Gefahrübergang) liegt nicht vor.
+- **Lieferschein, Packliste, Rechnung, Ursprungszeugnis, Zollfaktura:** Ihre Einordnung als Warenbegleitpapiere ist im Auszug nicht geregelt (A5a, C8c).
+- **Begriffe ohne Gesetzesbezug:** „Abladebestätigung", „Quittungsfunktion", „reine/unreine Quittung", „Sperrpapier" und „Warenbegleitpapier/Warenwertpapier" stehen nicht im Auszug. Die Bedeutung wurde nur aus § 409 und § 418 abgeleitet.
+- **Internationale Dokumente:** CMR, CIM, B/L (in der Seefracht), AWB, FCR, FCT, FBL und SWR (Zuordnungstabelle B6). CMR und CIM sind internationale Übereinkommen, FIATA-Papiere sind Verbandsdokumente. Sie sind im HGB-Auszug nicht enthalten.
+- **Ladeschein „Binnenschifffahrt":** Der Auszug nennt nur den „Frachtführer". Ein besonderes Binnenschifffahrtsrecht liegt nicht vor.
+- **Kreditsicherheit, Banken:** Das Wort „nur" in A6a und die Verpfändung (C9e) sind im Auszug nicht geregelt.
+- **Schulbuch Aufgabe 8 und 9:** Die Musterlösung des Verlags liegt nicht vor.
+- **Info-Blatt und Arbeitsblatt:** Die Dokumente selbst lagen nicht vor, nur die im Auftrag zitierten Aussagen.
