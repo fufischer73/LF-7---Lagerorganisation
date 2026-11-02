@@ -14,3 +14,11 @@ Lernpfad für Industriekaufleute, 2. Lehrjahr (Lehrplan 2024), 40 Std., gebaut m
 | III Kosten, Kennzahlen, Transport | LS 66, 67, 68 | 18 |
 
 Ein Fachgespräch nach Block II bezieht sich auf beide Handlungsprodukte. Block III endet mit der Klassenarbeit 1.
+
+## Fertige Dateien (`fertig/`)
+
+- `lf7-logistik_moodle4.5.mbz` – Moodle-Kurs (Sicherung für Moodle 4.5), in einen leeren Kurs wiederherstellen
+- `web-ansicht.html` – Erstansicht des Kurses zum Durchsehen im Browser (Datei öffnen, kein Server nötig)
+- `LINKS_ausfuellen.md` – Liste der Nextcloud-Links, die noch eingetragen werden müssen
+
+Die Dateien werden mit `python3 <Lernpfad-Baukasten>/skripte/moodle_lf.py lernpfad` erzeugt und hier abgelegt. Bei jeder neuen Version ersetzen.

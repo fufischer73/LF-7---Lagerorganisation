@@ -1,0 +1,82 @@
+# Links, die noch fehlen
+
+In `moodle-aufbau.yaml` bei `url:` die Nextcloud-Adresse eintragen (Datei in der Nextcloud öffnen › Teilen › Link kopieren), dann neu bauen.
+
+- `ao-1`: Inhaltliche Orientierung: Übersicht LF7
+- `ao-2`: Selbsteinschätzung LF7 (Kann-Liste)
+- `ao-3`: Vorlage Punktekonto LF7
+- `ao-4`: Wochenplan LF7
+- `ao-5`: KI-Assistent Logistik- und Lagerprozesse (LF7)
+- `block1-anfang-textfeld-1`: Handlungsprodukt 1: Auftrag und Hinweise
+- `ls64-ls`: LS64: Lernsituation und Arbeitsblätter
+- `ls64-orientierung`: Inhaltliche Orientierung: Ein Logistikkonzept erstellen
+- `ls64-kokreativ`: LS64: Aufgaben und Arbeitsblätter
+- `ls64-loesungen`: LS64 - Lösungen Teil 1
+- `ls64-lernatelier`: LS64: Aufgaben aus dem Arbeitsheft (Seiten 77 bis 79)
+- `ls64-lernatelier`: LS64: Aufgabenauswahl nach Niveau und Zusatzaufgaben
+- `ls64-lernatelier`: LS64 - Lösungen Teil 2
+- `ls64-lernatelier-zusatz`: Info-Blatt 4.2: Just-in-Time vs. Just-in-Sequence
+- `ls64-verarbeitung`: Lösungen Alles-klar-Aufgaben Kapitel 1
+- `ls65-ls`: LS65: Lernsituation und Arbeitsblätter
+- `ls65-orientierung`: Inhaltliche Orientierung: Die Lagerhaltung planen
+- `ls65-kokreativ`: LS65: Aufgaben und Arbeitsblätter
+- `ls65-kokreativ-zusatz`: Fachartikel: Erfolgsfaktor Kommissionierung (Die Großhandelskaufleute 03/2021)
+- `ls65-loesungen`: LS65 - Lösungen Teil 1
+- `ls65-lernatelier`: LS65: Aufgaben aus dem Arbeitsheft (Seiten 84 bis 88)
+- `ls65-lernatelier`: LS65: Aufgabenauswahl nach Niveau und Zusatzaufgaben
+- `ls65-lernatelier`: LS65 - Lösungen Teil 2
+- `ls65-lernatelier-zusatz`: Fachartikel: Erfolgsfaktor Kommissionierung (Aufgaben dazu in der Aufgabenauswahl)
+- `ls65-verarbeitung`: Lösungen Alles-klar-Aufgaben Kapitel 2
+- `block1-systematisierung-1`: Systematisierung: Anleitung und Begriffe
+- `block1-reflexion-2`: Zwischenreflexion Block I: Leitfragen
+- `block2-anfang-textfeld-1`: Handlungsprodukt 2: Auftrag und Hinweise
+- `ls70-ls`: LS70: Lernsituation und Arbeitsblätter
+- `ls70-orientierung`: Inhaltliche Orientierung: Sicherheit und Nachhaltigkeit in der Logistik
+- `ls70-kokreativ`: LS70: Aufgaben und Arbeitsblätter
+- `ls70-loesungen`: LS70 - Lösungen Teil 1
+- `ls70-lernatelier`: LS70: Aufgaben aus dem Arbeitsheft (Seiten 132 bis 134)
+- `ls70-lernatelier`: LS70: Aufgabenauswahl nach Niveau und Zusatzaufgaben (BNE SDG 11)
+- `ls70-lernatelier`: LS70 - Lösungen Teil 2
+- `ls70-verarbeitung`: Lösungen Alles-klar-Aufgaben Kapitel 5
+- `ls69-ls`: LS69: Lernsituation und Arbeitsblätter
+- `ls69-orientierung`: Inhaltliche Orientierung: Ein Entsorgungskonzept erstellen
+- `ls69-kokreativ`: LS69: Aufgaben und Arbeitsblätter
+- `ls69-loesungen`: LS69 - Lösungen Teil 1
+- `ls69-lernatelier`: LS69: Aufgaben aus dem Arbeitsheft (Seiten 123 bis 125)
+- `ls69-lernatelier`: LS69: Aufgabenauswahl nach Niveau und Zusatzaufgaben (BNE SDG 6)
+- `ls69-lernatelier`: LS69 - Lösungen Teil 2
+- `ls69-verarbeitung`: Lösungen Alles-klar-Aufgaben Kapitel 4
+- `block2-systematisierung-1`: Systematisierung: Anleitung und Begriffe
+- `block2-zertifizierung-3`: Zertifizierung - Terminwahl für das Fachgespräch zu HP 1 und HP 2
+- `block2-textfeld-4`: Zertifizierung: Ablauf und Kriterien des Fachgesprächs
+- `block2-reflexion-5`: Reflexion Block II: Leitfragen
+- `ls66-ls`: LS66: Lernsituation und Arbeitsblätter
+- `ls66-orientierung`: Inhaltliche Orientierung: Zwischen Eigen- und Fremdlager entscheiden
+- `ls66-kokreativ`: LS66: Aufgaben und Arbeitsblätter
+- `ls66-loesungen`: LS66 - Lösungen Teil 1
+- `ls66-lernatelier`: LS66: Aufgaben aus dem Arbeitsheft (Seiten 94 bis 97)
+- `ls66-lernatelier`: LS66: Aufgabenauswahl nach Niveau und Zusatzaufgaben
+- `ls66-lernatelier`: LS66 - Lösungen Teil 2
+- `ls66-verarbeitung`: Lösungen Alles-klar-Aufgaben Kapitel 2 (LS66)
+- `ls67-ls`: LS67: Lernsituation und Arbeitsblätter
+- `ls67-orientierung`: Inhaltliche Orientierung: Die Lagerhaltung mithilfe von Kennzahlen verbessern
+- `ls67-kokreativ`: LS67: Aufgaben und Arbeitsblätter
+- `ls67-loesungen`: LS67 - Lösungen Teil 1
+- `ls67-lernatelier`: LS67: Aufgaben aus dem Arbeitsheft (Seiten 102 bis 107)
+- `ls67-lernatelier`: LS67: Aufgabenauswahl nach Niveau und Zusatzaufgaben
+- `ls67-lernatelier`: LS67 - Lösungen Teil 2
+- `ls67-lernatelier-zusatz`: Fachartikel: Erfolgsfaktor Kommissionierung (zu den Aufgaben 3 und 4: Festplatz- und Freiplatzsystem)
+- `ls67-verarbeitung`: Lösungen Alles-klar-Aufgaben Kapitel 2 (LS67)
+- `ls68-ls`: LS68: Lernsituation und Arbeitsblätter
+- `ls68-orientierung`: Inhaltliche Orientierung: Die geeignete Transportform auswählen
+- `ls68-kokreativ`: LS68: Aufgaben und Arbeitsblätter
+- `ls68-loesungen`: LS68 - Lösungen Teil 1
+- `ls68-lernatelier`: LS68: Aufgaben aus dem Arbeitsheft (Seiten 113 bis 116)
+- `ls68-lernatelier`: LS68: Aufgabenauswahl nach Niveau und Zusatzaufgaben
+- `ls68-lernatelier`: LS68 - Lösungen Teil 2
+- `ls68-lernatelier-zusatz`: Info-Blatt: Warenbegleitpapiere und Warenwertpapiere
+- `ls68-lernatelier-zusatz`: Arbeitsblatt: Warenbegleitpapiere unterscheiden (mit Video zu Dokumenten in Spedition und Logistik)
+- `ls68-verarbeitung`: Lösungen Alles-klar-Aufgaben Kapitel 3
+- `block3-systematisierung-1`: Systematisierung: Anleitung und Begriffe
+- `block3-textfeld-2`: Klassenarbeit 1: Überblick und Vorbereitung
+- `block3-reflexion-3`: Reflexion Block III: Leitfragen
