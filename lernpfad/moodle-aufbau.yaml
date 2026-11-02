@@ -196,11 +196,116 @@ bloecke:
             - {titel: "Reflexion Block II: Leitfragen"}
 
   - titel: "Block III: Kosten, Kennzahlen, Transport (LS66 - LS68)"
+    anfang:
+      - textfeld:
+          titel: "Block III: Überblick"
+          text: |
+            In Block III rechnest und entscheidest du: Eigen- oder Fremdlager (LS66), Lagerkennzahlen (LS67) und die passende Transportform (LS68). Es gibt kein Handlungsprodukt, der Block endet mit der Klassenarbeit 1.
+
+            Die Rechenwege (kritische Lagerfläche, Kennzahlen, kritische Entfernung) übst du im Lernatelier. In der Systematisierung ordnest du Rechenwege und Zusammenhänge mit der Strukturlegetechnik.
     lernsituationen:
-      - {id: ls66, titel: "LS66 - Zwischen Eigen- und Fremdlager entscheiden"}
-      - {id: ls67, titel: "LS67 - Die Lagerhaltung mithilfe von Kennzahlen verbessern"}
-      - {id: ls68, titel: "LS68 - Die geeignete Transportform auswählen"}
+      - id: ls66
+        titel: "LS66 - Zwischen Eigen- und Fremdlager entscheiden"
+        text: "Kosten von Eigen- und Fremdlager vergleichen, kritische Lagerfläche ermitteln, Lagervertrag und Lagerschein. Buch: Lernfeld 7, Kapitel 2.4.3 (Seiten 89 bis 97)."
+        links:
+          - {titel: "LS66: Lernsituation und Arbeitsblätter"}
+        orientierung: {titel: "Inhaltliche Orientierung: Zwischen Eigen- und Fremdlager entscheiden"}
+        kokreativ:
+          text: |
+            Bearbeitet im Team die Arbeitsaufträge 1 bis 3 der Lernsituation. Ihr braucht die Arbeitsblätter 66.1 (Kostenvergleich) und 66.2 (Vertragsverhältnisse) und das Buchkapitel.
+          links:
+            - {titel: "LS66: Aufgaben und Arbeitsblätter"}
+        loesungen:
+          links:
+            - {titel: "LS66 - Lösungen Teil 1"}
+        lernatelier:
+          text: |
+            Hier findet ihr die Aufgaben zur LS66, die Lösungen und die Zusatzaufgaben (Kostenvergleich in der Tabellenkalkulation, Entscheidungsvorlage, Nachhaltigkeit).
+
+            Hinweis: Bearbeite nicht alle Aufgaben, sondern übe gezielt die Themen, bei denen du Bedarf hast.
+          links:
+            - {titel: "LS66: Aufgaben aus dem Arbeitsheft (Seiten 94 bis 97)"}
+            - {titel: "LS66: Aufgabenauswahl nach Niveau und Zusatzaufgaben"}
+            - {titel: "LS66 - Lösungen Teil 2"}
+        verarbeitung:
+          text: "Hier findest du die Lösungen zu den Alles-klar-Aufgaben. Prüfe danach deine Kann-Liste."
+          links:
+            - {titel: "Lösungen Alles-klar-Aufgaben Kapitel 2 (LS66)"}
+      - id: ls67
+        titel: "LS67 - Die Lagerhaltung mithilfe von Kennzahlen verbessern"
+        text: "Lagerkennzahlen berechnen und deuten. Buch: Lernfeld 7, Kapitel 2.6 (Seiten 98 bis 107)."
+        links:
+          - {titel: "LS67: Lernsituation und Arbeitsblätter"}
+        orientierung: {titel: "Inhaltliche Orientierung: Die Lagerhaltung mithilfe von Kennzahlen verbessern"}
+        kokreativ:
+          text: |
+            Bearbeitet im Team die Arbeitsaufträge 1 bis 5 der Lernsituation. Ihr braucht die Lagerdateien, die Arbeitsblätter 67.1 und 67.2 und das Buchkapitel.
+          links:
+            - {titel: "LS67: Aufgaben und Arbeitsblätter"}
+        loesungen:
+          links:
+            - {titel: "LS67 - Lösungen Teil 1"}
+        lernatelier:
+          text: |
+            Hier findet ihr die Aufgaben zur LS67, die Lösungen und die Zusatzaufgaben (Kennzahlen-Tabelle, Fachartikel zu Festplatz- und Freiplatzsystem, Kennzahlen im Betrieb).
+
+            Hinweis: Bearbeite nicht alle Aufgaben, sondern übe gezielt die Themen, bei denen du Bedarf hast. Die Bestandserfassung und Inventur kennst du aus Lernfeld 5.
+          links:
+            - {titel: "LS67: Aufgaben aus dem Arbeitsheft (Seiten 102 bis 107)"}
+            - {titel: "LS67: Aufgabenauswahl nach Niveau und Zusatzaufgaben"}
+            - {titel: "LS67 - Lösungen Teil 2"}
+          zusatz:
+            - {titel: "Fachartikel: Erfolgsfaktor Kommissionierung (zu den Aufgaben 3 und 4: Festplatz- und Freiplatzsystem)"}
+        verarbeitung:
+          text: "Hier findest du die Lösungen zu den Alles-klar-Aufgaben. Prüfe danach deine Kann-Liste."
+          links:
+            - {titel: "Lösungen Alles-klar-Aufgaben Kapitel 2 (LS67)"}
+      - id: ls68
+        titel: "LS68 - Die geeignete Transportform auswählen"
+        text: "Transportform wählen, Kosten ermitteln, Frachtbrief und Rechtsbeziehungen. Buch: Lernfeld 7, Kapitel 3.2 (Seiten 108 bis 116)."
+        links:
+          - {titel: "LS68: Lernsituation und Arbeitsblätter"}
+        orientierung: {titel: "Inhaltliche Orientierung: Die geeignete Transportform auswählen"}
+        kokreativ:
+          text: |
+            Bearbeitet im Team die Arbeitsaufträge 1 bis 4 der Lernsituation. Ihr braucht die Arbeitsblätter 68.1 und 68.2 (Frachtbrief) und das Buchkapitel.
+          links:
+            - {titel: "LS68: Aufgaben und Arbeitsblätter"}
+        loesungen:
+          links:
+            - {titel: "LS68 - Lösungen Teil 1"}
+        lernatelier:
+          text: |
+            Hier findet ihr die Aufgaben zur LS68, die Lösungen und die Zusatzaufgaben (Nutzwertanalyse, Erklärvideo, CO2 beim Transport). Zu den Aufgaben 8 bis 11 (Warenbegleit- und Warenwertpapiere) gibt es ein Info-Blatt und ein Arbeitsblatt.
+
+            Hinweis: Bearbeite nicht alle Aufgaben, sondern übe gezielt die Themen, bei denen du Bedarf hast.
+          links:
+            - {titel: "LS68: Aufgaben aus dem Arbeitsheft (Seiten 113 bis 116)"}
+            - {titel: "LS68: Aufgabenauswahl nach Niveau und Zusatzaufgaben"}
+            - {titel: "LS68 - Lösungen Teil 2"}
+          zusatz:
+            - {titel: "Info-Blatt: Warenbegleitpapiere und Warenwertpapiere"}
+            - {titel: "Arbeitsblatt: Warenbegleitpapiere unterscheiden (mit Video zu Dokumenten in Spedition und Logistik)"}
+        verarbeitung:
+          text: "Hier findest du die Lösungen zu den Alles-klar-Aufgaben Kapitel 3. Prüfe danach deine Kann-Liste."
+          links:
+            - {titel: "Lösungen Alles-klar-Aufgaben Kapitel 3"}
     abschluss:
-      - systematisierung: {titel: "Systematisierung: Kosten, Kennzahlen, Transport (Strukturlegetechnik)"}
-      - textfeld: {titel: "Klassenarbeit 1: Überblick und Vorbereitung"}
-      - reflexion: {titel: "Reflexion und Feedback Block III"}
+      - systematisierung:
+          titel: "Systematisierung: Kosten, Kennzahlen, Transport (Strukturlegetechnik)"
+          text: |
+            Ordnet mit Karten die Rechenwege und Zusammenhänge aus LS66, LS67 und LS68 (analog, ohne Computer). Das Strukturbild hilft euch bei der Vorbereitung der Klassenarbeit.
+          links:
+            - {titel: "Systematisierung: Anleitung und Begriffe"}
+      - textfeld:
+          titel: "Klassenarbeit 1: Überblick und Vorbereitung"
+          text: |
+            Die Klassenarbeit 1 bezieht sich auf LS66, LS67 und LS68. Hier findest du Themen, wichtige Formeln und Tipps zur Vorbereitung.
+          links:
+            - {titel: "Klassenarbeit 1: Überblick und Vorbereitung"}
+      - reflexion:
+          titel: "Reflexion und Feedback Block III"
+          text: |
+            Nimm dir nach der Klassenarbeit 15 Minuten: Was hat in der Vorbereitung gut funktioniert? Welche Rechenwege sitzen, welche nicht? Was nimmst du aus dem Lernfeld 7 mit?
+          links:
+            - {titel: "Reflexion Block III: Leitfragen"}

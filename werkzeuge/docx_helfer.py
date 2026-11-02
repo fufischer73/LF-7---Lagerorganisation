@@ -67,6 +67,8 @@ class Dok:
                 for para in c.paragraphs:
                     for r in para.runs: r.font.size = Pt(groesse)
         if breiten:
+            for i, w in enumerate(breiten):
+                t.columns[i].width = Cm(w)          # Spaltenraster (wird von OnlyOffice und LibreOffice genutzt)
             for row in t.rows:
                 for i, w in enumerate(breiten): row.cells[i].width = Cm(w)
         self.d.add_paragraph()

@@ -3,6 +3,7 @@
 Lernpfad für Industriekaufleute, 2. Lehrjahr (Lehrplan 2024), 40 Std., gebaut mit dem Lernpfad-Baukasten.
 
 - `planung/` – Entwurf der komplexen Lernsituationen und Handlungsprodukte
+- `nextcloud/` – OnlyOffice-Materialien je Block (Block-I, Block-II, Block-III) zum Ablegen in der Nextcloud; `werkzeuge/` – Skripte, die sie erzeugen (`block1_bauen.py`, `block2_bauen.py`, `block3_bauen.py`); `bot/` – Anweisung für den KI-Assistenten
 - `lernpfad/moodle-aufbau.yaml` – einzige Quelle für Moodle-Kurs und Web-Ansicht; `lernpfad/material/icons/` – Phasen-Symbole
 - Bauen: `python3 <Lernpfad-Baukasten>/skripte/moodle_lf.py lernpfad` erzeugt `ausgabe/moodle/*.mbz` und `ausgabe/web/index.html`
 
