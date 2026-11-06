@@ -54,7 +54,7 @@ def ls67_teil1(pfad):
     d = Dok(KOPF + " · LS 67", "LS 67 Lösungen Teil 1: Die Lagerhaltung mithilfe von Kennzahlen verbessern", STATUS)
     d.h2("Arbeitsblatt 67.1 Auswertung mithilfe von Lagerkennzahlen")
     d.p("Annahme: Ø Lagerbestand = (Anfangsbestand + Endbestand) : 2, Absatz = Summe der Abgänge im Jahr, Ø Lagerdauer = 360 Tage : Umschlagshäufigkeit. "
-        "Wenn dein Heft den Ø Lagerbestand anders ermittelt (zum Beispiel aus Monatsendbeständen), weichen die Werte ab.")
+        "Wenn Ihr Heft den Ø Lagerbestand anders ermittelt (zum Beispiel aus Monatsendbeständen), weichen die Werte ab.")
     rows = [["Formel", "(AB + EB) : 2", "Absatz : Ø Lagerbestand", "360 : Umschlagshäufigkeit"]]
     for a, k in r.KENN.items():
         rows.append([f"Artikel {a}", f"{de(k['avg'], 1)} (Absatz {k['absatz']})", de(k["uh"]), f"{de(k['dauer'], 0)} Tage"])

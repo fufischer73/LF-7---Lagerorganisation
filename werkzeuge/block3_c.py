@@ -9,56 +9,56 @@ de = r.de
 
 def lernatelier_ls66(pfad):
     lernatelier(pfad, "LS 66", "Zwischen Eigen- und Fremdlager entscheiden", "Seiten 94 bis 97",
-        ("5, 6, 7, 10", "Du willst Begriffe, Lagervertrag und Lagerschein sicher können."),
-        ("1, 2, 3, 8", "Du übst den Rechenweg zur kritischen Lagerfläche und die Entscheidung."),
-        ("4, 9 und Zusatzaufgaben", "Du überträgst den Rechenweg und prüfst Lagerscheine."),
+        ("5, 6, 7, 10", "Sie wollen Begriffe, Lagervertrag und Lagerschein sicher können."),
+        ("1, 2, 3, 8", "Sie üben den Rechenweg zur kritischen Lagerfläche und die Entscheidung."),
+        ("4, 9 und Zusatzaufgaben", "Sie übertragen den Rechenweg und prüfen Lagerscheine."),
         [("Plus", "Kostenvergleich in der Tabellenkalkulation",
-          "Baue in OnlyOffice (Tabellenkalkulation) für Aufgabe 1 einen Kostenvergleich: Eingabefelder für Fixkosten, variable Kosten und Preis des "
-          "Fremdlagers, Formel für die kritische Lagerfläche, Wertetabelle von 0 bis 8.000 m² und ein Liniendiagramm. Teste, was passiert, wenn das "
+          "Bauen Sie in OnlyOffice (Tabellenkalkulation) für Aufgabe 1 einen Kostenvergleich: Eingabefelder für Fixkosten, variable Kosten und Preis des "
+          "Fremdlagers, Formel für die kritische Lagerfläche, Wertetabelle von 0 bis 8.000 m² und ein Liniendiagramm. Testen Sie, was passiert, wenn das "
           "Fremdlager 30 € je m² verlangt."),
          ("Kreativ", "Entscheidungsvorlage in einer Seite",
-          "Schreibe für die Geschäftsführung eine Entscheidungsvorlage (eine Seite) zu Aufgabe 3: Rechnung, Grafik, weitere Aspekte, Empfehlung."),
+          "Schreiben Sie für die Geschäftsführung eine Entscheidungsvorlage (eine Seite) zu Aufgabe 3: Rechnung, Grafik, weitere Aspekte, Empfehlung."),
          ("BNE", "Nachhaltigkeit bei der Lagerwahl",
           "Welche ökologischen und sozialen Aspekte sollten bei der Entscheidung zwischen Eigen- und Fremdlager noch eine Rolle spielen "
-          "(Energie, Fläche, Transportwege, Arbeitsbedingungen)? Ergänze deine Entscheidungsvorlage um einen Absatz.")])
+          "(Energie, Fläche, Transportwege, Arbeitsbedingungen)? Ergänzen Sie Ihre Entscheidungsvorlage um einen Absatz.")])
 
 
 def lernatelier_ls67(pfad):
     lernatelier(pfad, "LS 67", "Die Lagerhaltung mithilfe von Kennzahlen verbessern", "Seiten 102 bis 107",
-        ("1, 3, 5, 6, 7, 13", "Du willst Lagerorganisation, Kostenarten und die Grundrechnungen sicher können."),
-        ("8, 9, 10, 14, 15, 16, 19", "Du vertiefst Kennzahlen und Lagerzinsen."),
-        ("2, 4, 11, 12, 17, 18 und Zusatzaufgaben", "Du deutest Kennzahlen und überträgst auf den Betrieb."),
+        ("1, 3, 5, 6, 7, 13", "Sie wollen Lagerorganisation, Kostenarten und die Grundrechnungen sicher können."),
+        ("8, 9, 10, 14, 15, 16, 19", "Sie vertiefen Kennzahlen und Lagerzinsen."),
+        ("2, 4, 11, 12, 17, 18 und Zusatzaufgaben", "Sie deuten Kennzahlen und übertragen auf den Betrieb."),
         [("Plus", "Kennzahlen-Tabelle in der Tabellenkalkulation",
-          "Baue für Aufgabe 9 eine Tabelle in OnlyOffice mit Formeln für den Ø Lagerbestand auf Monatsbasis, den Ø Lagerwert und die "
-          "Umschlagshäufigkeit. Ergänze eine Bedingung, die Werkstoffe mit einer Umschlagshäufigkeit unter 3 farbig markiert."),
+          "Bauen Sie für Aufgabe 9 eine Tabelle in OnlyOffice mit Formeln für den Ø Lagerbestand auf Monatsbasis, den Ø Lagerwert und die "
+          "Umschlagshäufigkeit. Ergänzen Sie eine Bedingung, die Werkstoffe mit einer Umschlagshäufigkeit unter 3 farbig markiert."),
          ("Basis", "Fachartikel Kommissionierung (Festplatz- und Freiplatzsystem)",
-          "Lies im Fachartikel „Erfolgsfaktor Kommissionierung“ (Ergänzendes Material) den Abschnitt zum Lagerhaltungssystem und beantworte die "
+          "Lesen Sie im Fachartikel „Erfolgsfaktor Kommissionierung“ (Ergänzendes Material) den Abschnitt zum Lagerhaltungssystem und beantworten Sie die "
           "Aufgaben 3 und 4 mit Argumenten aus dem Text."),
          ("Kreativ", "Kennzahlen im Betrieb",
-          "Erfrage in deinem Ausbildungsbetrieb (ohne vertrauliche Zahlen), welche Lagerkennzahlen genutzt werden, und erkläre sie an einem "
+          "Erfragen Sie in Ihrem Ausbildungsbetrieb (ohne vertrauliche Zahlen), welche Lagerkennzahlen genutzt werden, und erklären Sie sie an einem "
           "Beispiel für die Klasse."),
          ("BNE", "Lagerbestand und Ressourcen",
-          "Überprüfe, wie sich ein zu hoher Lagerbestand auf Ressourcen auswirkt (Energie, Fläche, Ausschuss, Entsorgung), und nenne drei Maßnahmen, die "
+          "Überprüfen Sie, wie sich ein zu hoher Lagerbestand auf Ressourcen auswirkt (Energie, Fläche, Ausschuss, Entsorgung), und nennen Sie drei Maßnahmen, die "
           "Kennzahlen und Nachhaltigkeit verbinden.")])
 
 
 def lernatelier_ls68(pfad):
     lernatelier(pfad, "LS 68", "Die geeignete Transportform auswählen", "Seiten 113 bis 116",
-        ("1, 8, 9, 11, 18", "Du willst Transportdokumente, Akteure und Kostenarten sicher können."),
-        ("6, 7, 10, 12, 14, 15, 16, 17", "Du vertiefst Rechnungen (kritische Entfernung) und Entscheidungen."),
-        ("2, 3, 4, 5, 13, 19, 20 und Zusatzaufgaben", "Du recherchierst im Betrieb und überträgst."),
+        ("1, 8, 9, 11, 18", "Sie wollen Transportdokumente, Akteure und Kostenarten sicher können."),
+        ("6, 7, 10, 12, 14, 15, 16, 17", "Sie vertiefen Rechnungen (kritische Entfernung) und Entscheidungen."),
+        ("2, 3, 4, 5, 13, 19, 20 und Zusatzaufgaben", "Sie recherchieren im Betrieb und übertragen."),
         [("Basis", "Info-Blatt und Arbeitsblatt zu Warenbegleit- und Warenwertpapieren",
-          "Lies das Info-Blatt „Warenbegleitpapiere und Warenwertpapiere“ (Ergänzendes Material) und bearbeite das Arbeitsblatt „Warenbegleitpapiere "
-          "unterscheiden“. Erkläre danach, warum der Frachtbrief kein Warenwertpapier ist."),
+          "Lesen Sie das Info-Blatt „Warenbegleitpapiere und Warenwertpapiere“ (Ergänzendes Material) und bearbeiten Sie das Arbeitsblatt „Warenbegleitpapiere "
+          "unterscheiden“. Erklären Sie danach, warum der Frachtbrief kein Warenwertpapier ist."),
          ("Plus", "Nutzwertanalyse für den Auftrag der Go2Bike KG (IHK-Katalog)",
-          "Vergleiche für den zweiten Versandauftrag drei Möglichkeiten (KEP-Express, lokaler Kurier, Werkverkehr). Lege Kriterien und Gewichte fest "
-          "(zum Beispiel Kosten, Termintreue, Sendungsverfolgung, Haftung, Umwelt), vergebe Punkte von 1 bis 5 und berechne den Nutzwert. Prüfe, wie "
-          "stark sich das Ergebnis ändert, wenn du die Gewichte veränderst. Nutze Preise aus deiner Recherche."),
+          "Vergleichen Sie für den zweiten Versandauftrag drei Möglichkeiten (KEP-Express, lokaler Kurier, Werkverkehr). Legen Sie Kriterien und Gewichte fest "
+          "(zum Beispiel Kosten, Termintreue, Sendungsverfolgung, Haftung, Umwelt), vergeben Sie Punkte von 1 bis 5 und berechnen Sie den Nutzwert. Prüfen Sie, wie "
+          "stark sich das Ergebnis ändert, wenn Sie die Gewichte verändern. Nutzen Sie Preise aus Ihrer Recherche."),
          ("Kreativ", "Erklärvideo „Frachtbrief oder Konnossement?“",
-          "Erkläre in höchstens drei Minuten (Folien oder kurzes Video) den Unterschied zwischen Frachtbrief und Konnossement an einem Beispiel."),
+          "Erklären Sie in höchstens drei Minuten (Folien oder kurzes Video) den Unterschied zwischen Frachtbrief und Konnossement an einem Beispiel."),
          ("BNE", "CO2 beim Transport",
-          "Berechne die Treibhausgasemissionen für die Beförderung von 720 kg Fahrrädern über 300 km mit Lkw, Bahn und Binnenschiff mit "
-          "Emissionsfaktoren einer anerkannten Quelle (zum Beispiel Umweltbundesamt). Gib die Quelle an und bewerte die Ergebnisse (Dauer, Kosten, Umwelt).")])
+          "Berechnen Sie die Treibhausgasemissionen für die Beförderung von 720 kg Fahrrädern über 300 km mit Lkw, Bahn und Binnenschiff mit "
+          "Emissionsfaktoren einer anerkannten Quelle (zum Beispiel Umweltbundesamt). Geben Sie die Quelle an und bewerten Sie die Ergebnisse (Dauer, Kosten, Umwelt).")])
 
 
 def loesungen_ls66_teil2(pfad):

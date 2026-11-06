@@ -50,7 +50,7 @@ def info_blatt(pfad):
         ["Lagerschein (Order)", "nein", "ja", "ja, durch Übergabe oder Indossament", "§§ 475c, 475g HGB"],
     ], [3.2, 2.6, 2.6, 4.2, 4.4], 9)
     d.hinweis("Merkhilfe: Nur wer das Traditionspapier (Konnossement, Ladeschein, Lagerschein an Order) rechtmäßig erwirbt, erwirbt "
-              "Rechte am Gut. Der Frachtbrief macht dich nicht zum Berechtigten.", "E8F5E9")
+              "Rechte am Gut. Der Frachtbrief macht Sie nicht zum Berechtigten.", "E8F5E9")
     d.h2("6 Warum ist das wichtig?")
     d.punkte(["Banken nehmen Warenwertpapiere in der Praxis als Sicherheit, weil mit ihnen Rechte am Gut erworben werden können "
               "(zum Beispiel beim Dokumentenakkreditiv und Dokumenteninkasso).",
@@ -91,10 +91,10 @@ def arbeitsblatt_anpassungen(pfad):
          "Erwartung: Der Absender kann nachträglich Weisungen nur gegen Vorlage seiner Ausfertigung erteilen; der Frachtführer führt Weisungen ohne die Ausfertigung nicht aus."],
         ["Offene Frage: Wertpapier", "„Beschreibe, was ein Wertpapier im Kontext der Logistik ist …“",
          "Begriff ist weit. Gemeint ist das Warenwertpapier.",
-         "Frage umformulieren: „… was ein Warenwertpapier (Traditionspapier) ist …“. Erwartung: Verbrieft den Anspruch auf Auslieferung; die Übergabe wirkt beim Erwerb von Rechten wie die Übergabe des Gutes; Auslieferung gegen Rückgabe."],
+         "Frage umformulieren: „… was ein Warenwertpapier (Traditionspapier) ist …“ (Anrede im Arbeitsblatt auf „Sie“ umstellen). Erwartung: Verbrieft den Anspruch auf Auslieferung; die Übergabe wirkt beim Erwerb von Rechten wie die Übergabe des Gutes; Auslieferung gegen Rückgabe."],
         ["Offene Frage: Vergleich Sperrpapier und Wertpapier", "„Vergleiche …“",
          "Beides sind keine gleichartigen Kategorien: Sperrpapier ist eine Funktion des Frachtbriefs, Warenwertpapier eine Art von Papier.",
-         "Frage ändern: „Vergleiche Frachtbrief und Konnossement.“ Erwartung: Frachtbrief als Begleitpapier mit Beweis- und Sperrfunktion, Konnossement als Warenwertpapier mit Traditionswirkung."],
+         "Frage ändern: „Vergleichen Sie Frachtbrief und Konnossement.“ Erwartung: Frachtbrief als Begleitpapier mit Beweis- und Sperrfunktion, Konnossement als Warenwertpapier mit Traditionswirkung."],
     ], [3.0, 3.6, 5.0, 5.4], 8.5)
     d.h2("Zuordnungstabelle (Abkürzungen)")
     d.punkte(["Die Zuordnungen sind in sich stimmig (CMR = Internationaler LKW-Frachtbrief, B/L = Handelbares Wertpapier in der Seefracht, "

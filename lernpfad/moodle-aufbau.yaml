@@ -16,7 +16,7 @@ advance_organizer:
     - {titel: "Wochenplan LF7"}
     - titel: "KI-Assistent Logistik- und Lagerprozesse (LF7)"
       icon: orientierung
-      text: "Dieser Link führt dich zu einem KI-Assistenten, der dich bei den Lernsituationen 64 bis 70 unterstützt. Er gibt Hinweise und stellt Rückfragen, löst aber nicht deine Aufgaben. Gib keine persönlichen Daten oder Betriebsgeheimnisse ein."
+      text: "Dieser Link führt Sie zu einem KI-Assistenten, der Sie bei den Lernsituationen 64 bis 70 unterstützt. Er gibt Hinweise und stellt Rückfragen, löst aber nicht Ihre Aufgaben. Geben Sie keine persönlichen Daten oder Betriebsgeheimnisse ein."
 
 bloecke:
   - titel: "Block I: Logistik- und Lagerkonzept (LS64 - LS65)"
@@ -26,7 +26,7 @@ bloecke:
           text: |
             Die Fly Bike Werke GmbH wächst. Frau Nowak bittet die Logistikabteilung um ein Logistik- und Lagerkonzept als Entscheidungsvorlage, bevor in ein neues Lager investiert wird.
 
-            In Block I erarbeitet ihr im Team (3 bis 4 Personen) Schritt für Schritt drei Teile: A Lieferkette, B Lagerplanung, C Verknüpfung und Empfehlung. Das Handlungsprodukt ist die Grundlage für das Fachgespräch nach Block II.
+            In Block I erarbeiten Sie im Team (3 bis 4 Personen) Schritt für Schritt drei Teile: A Lieferkette, B Lagerplanung, C Verknüpfung und Empfehlung. Das Handlungsprodukt ist die Grundlage für das Fachgespräch nach Block II.
           links:
             - {titel: "Handlungsprodukt 1: Auftrag und Hinweise"}
     lernsituationen:
@@ -38,7 +38,7 @@ bloecke:
         orientierung: {titel: "Inhaltliche Orientierung: Ein Logistikkonzept erstellen"}
         kokreativ:
           text: |
-            Bearbeitet im Team die Arbeitsaufträge 1 bis 4 der Lernsituation. Ihr braucht die Arbeitsblätter 64.1 und 64.2 und die Buchkapitel. Eure Ergebnisse sind Teil A des Handlungsprodukts 1.
+            Bearbeiten Sie im Team die Arbeitsaufträge 1 bis 4 der Lernsituation. Sie benötigen die Arbeitsblätter 64.1 und 64.2 und die Buchkapitel. Ihre Ergebnisse sind Teil A des Handlungsprodukts 1.
           links:
             - {titel: "LS64: Aufgaben und Arbeitsblätter"}
         loesungen:
@@ -46,9 +46,9 @@ bloecke:
             - {titel: "LS64 - Lösungen Teil 1"}
         lernatelier:
           text: |
-            Hier findet ihr die Aufgaben zur LS64, die Lösungen und die Zusatzaufgaben (Info-Blatt zu Just-in-Time und Just-in-Sequence, Lieferkette und Verantwortung).
+            Hier finden Sie die Aufgaben zur LS64, die Lösungen und die Zusatzaufgaben (Info-Blatt zu Just-in-Time und Just-in-Sequence, Lieferkette und Verantwortung).
 
-            Hinweis: Bearbeite nicht alle Aufgaben, sondern übe gezielt die Themen, bei denen du Bedarf hast.
+            Hinweis: Bearbeiten Sie nicht alle Aufgaben, sondern üben Sie gezielt die Themen, bei denen Sie Bedarf haben.
           links:
             - {titel: "LS64: Aufgaben aus dem Arbeitsheft (Seiten 77 bis 79)"}
             - {titel: "LS64: Aufgabenauswahl nach Niveau und Zusatzaufgaben"}
@@ -56,7 +56,7 @@ bloecke:
           zusatz:
             - {titel: "Info-Blatt 4.2: Just-in-Time vs. Just-in-Sequence"}
         verarbeitung:
-          text: "Hier findest du die Lösungen zu den Alles-klar-Aufgaben Kapitel 1. Prüfe danach deine Kann-Liste."
+          text: "Hier finden Sie die Lösungen zu den Alles-klar-Aufgaben Kapitel 1. Prüfen Sie danach Ihre Kann-Liste."
           links:
             - {titel: "Lösungen Alles-klar-Aufgaben Kapitel 1"}
       - id: ls65
@@ -67,7 +67,7 @@ bloecke:
         orientierung: {titel: "Inhaltliche Orientierung: Die Lagerhaltung planen"}
         kokreativ:
           text: |
-            Bearbeitet im Team die Arbeitsaufträge 1 bis 5 der Lernsituation. Ihr braucht die Arbeitsblätter 65.1 bis 65.3 und die Buchkapitel. Eure Ergebnisse sind Teil B des Handlungsprodukts 1.
+            Bearbeiten Sie im Team die Arbeitsaufträge 1 bis 5 der Lernsituation. Sie benötigen die Arbeitsblätter 65.1 bis 65.3 und die Buchkapitel. Ihre Ergebnisse sind Teil B des Handlungsprodukts 1.
           links:
             - {titel: "LS65: Aufgaben und Arbeitsblätter"}
           zusatz:
@@ -77,9 +77,9 @@ bloecke:
             - {titel: "LS65 - Lösungen Teil 1"}
         lernatelier:
           text: |
-            Hier findet ihr die Aufgaben zur LS65, die Lösungen und die Zusatzaufgaben (Standorte der Lager, Lagerlayout, nachhaltige Lagerplanung).
+            Hier finden Sie die Aufgaben zur LS65, die Lösungen und die Zusatzaufgaben (Standorte der Lager, Lagerlayout, nachhaltige Lagerplanung).
 
-            Hinweis: Bearbeite nicht alle Aufgaben, sondern übe gezielt die Themen, bei denen du Bedarf hast.
+            Hinweis: Bearbeiten Sie nicht alle Aufgaben, sondern üben Sie gezielt die Themen, bei denen Sie Bedarf haben.
           links:
             - {titel: "LS65: Aufgaben aus dem Arbeitsheft (Seiten 84 bis 88)"}
             - {titel: "LS65: Aufgabenauswahl nach Niveau und Zusatzaufgaben"}
@@ -87,20 +87,20 @@ bloecke:
           zusatz:
             - {titel: "Fachartikel: Erfolgsfaktor Kommissionierung (Aufgaben dazu in der Aufgabenauswahl)"}
         verarbeitung:
-          text: "Hier findest du die Lösungen zu den Alles-klar-Aufgaben Kapitel 2. Prüfe danach deine Kann-Liste."
+          text: "Hier finden Sie die Lösungen zu den Alles-klar-Aufgaben Kapitel 2. Prüfen Sie danach Ihre Kann-Liste."
           links:
             - {titel: "Lösungen Alles-klar-Aufgaben Kapitel 2"}
     abschluss:
       - systematisierung:
           titel: "Systematisierung: Von der Lieferkette zum Lager (Strukturlegetechnik)"
           text: |
-            Legt aus den Begriffen von LS64 und LS65 mit Karten ein Strukturbild. Das machen wir analog, ohne Computer. Danach verbindet ihr Lieferkette und Lager in Teil C eures Handlungsprodukts.
+            Legen Sie aus den Begriffen von LS64 und LS65 mit Karten ein Strukturbild. Das machen wir analog, ohne Computer. Danach verbinden Sie Lieferkette und Lager in Teil C Ihres Handlungsprodukts.
           links:
             - {titel: "Systematisierung: Anleitung und Begriffe"}
       - reflexion:
           titel: "Zwischenreflexion Block I"
           text: |
-            Nimm dir 10 Minuten: Was hat gut geklappt? Was ist noch unklar? Welche Kann-Aussagen sitzen? Was nimmst du für Block II mit?
+            Nehmen Sie sich 10 Minuten: Was hat gut geklappt? Was ist noch unklar? Welche Kann-Aussagen sitzen? Was nehmen Sie für Block II mit?
           links:
             - {titel: "Zwischenreflexion Block I: Leitfragen"}
 
@@ -111,7 +111,7 @@ bloecke:
           text: |
             Die Fly Bike Werke GmbH hat Nachhaltigkeit in ihrer Strategie verankert, jetzt rückt die Logistik in den Mittelpunkt. Herr Thüne lädt zum Meeting ein: Aus den Ideen sollen konkrete Handlungsstrategien und ein ganzheitliches Entsorgungskonzept werden, das auch die Mitarbeitenden einbindet.
 
-            In Block II erarbeitet ihr im Team drei Teile: A Nachhaltigkeitsmaßnahmen, B Entsorgungskonzept, C Wirkung und Nachhaltigkeitsziele (SDG 6 und 11). Am Ende stellt ihr das Konzept im Meeting vor. Handlungsprodukt 1 und 2 sind die Grundlage für das Fachgespräch.
+            In Block II erarbeiten Sie im Team drei Teile: A Nachhaltigkeitsmaßnahmen, B Entsorgungskonzept, C Wirkung und Nachhaltigkeitsziele (SDG 6 und 11). Am Ende stellen Sie das Konzept im Meeting vor. Handlungsprodukt 1 und 2 sind die Grundlage für das Fachgespräch.
           links:
             - {titel: "Handlungsprodukt 2: Auftrag und Hinweise"}
     lernsituationen:
@@ -123,7 +123,7 @@ bloecke:
         orientierung: {titel: "Inhaltliche Orientierung: Sicherheit und Nachhaltigkeit in der Logistik"}
         kokreativ:
           text: |
-            Bearbeitet im Team die Arbeitsaufträge 1 bis 4 der Lernsituation (Ideen sammeln, priorisieren, Meeting vorbereiten). Ihr braucht die Arbeitsblätter 70.1 bis 70.4 und das Buchkapitel. Eure Ergebnisse sind Teil A des Handlungsprodukts 2.
+            Bearbeiten Sie im Team die Arbeitsaufträge 1 bis 4 der Lernsituation (Ideen sammeln, priorisieren, Meeting vorbereiten). Sie benötigen die Arbeitsblätter 70.1 bis 70.4 und das Buchkapitel. Ihre Ergebnisse sind Teil A des Handlungsprodukts 2.
           links:
             - {titel: "LS70: Aufgaben und Arbeitsblätter"}
         loesungen:
@@ -131,15 +131,15 @@ bloecke:
             - {titel: "LS70 - Lösungen Teil 1"}
         lernatelier:
           text: |
-            Hier findet ihr die Aufgaben zur LS70 (Sicherheitszeichen, Gefahrstoffe, Ergonomie, Unfälle, Datenschutz), die Lösungen und die Zusatzaufgaben. Die BNE-Aufgabe zu Nachhaltigkeitsziel 11 (Stadtlogistik, letzte Meile) gehört dazu.
+            Hier finden Sie die Aufgaben zur LS70 (Sicherheitszeichen, Gefahrstoffe, Ergonomie, Unfälle, Datenschutz), die Lösungen und die Zusatzaufgaben. Die BNE-Aufgabe zu Nachhaltigkeitsziel 11 (Stadtlogistik, letzte Meile) gehört dazu.
 
-            Hinweis: Bearbeite nicht alle Aufgaben, sondern übe gezielt die Themen, bei denen du Bedarf hast.
+            Hinweis: Bearbeiten Sie nicht alle Aufgaben, sondern üben Sie gezielt die Themen, bei denen Sie Bedarf haben.
           links:
             - {titel: "LS70: Aufgaben aus dem Arbeitsheft (Seiten 132 bis 134)"}
             - {titel: "LS70: Aufgabenauswahl nach Niveau und Zusatzaufgaben (BNE SDG 11)"}
             - {titel: "LS70 - Lösungen Teil 2"}
         verarbeitung:
-          text: "Hier findest du die Lösungen zu den Alles-klar-Aufgaben Kapitel 5. Prüfe danach deine Kann-Liste."
+          text: "Hier finden Sie die Lösungen zu den Alles-klar-Aufgaben Kapitel 5. Prüfen Sie danach Ihre Kann-Liste."
           links:
             - {titel: "Lösungen Alles-klar-Aufgaben Kapitel 5"}
       - id: ls69
@@ -150,7 +150,7 @@ bloecke:
         orientierung: {titel: "Inhaltliche Orientierung: Ein Entsorgungskonzept erstellen"}
         kokreativ:
           text: |
-            Bearbeitet im Team die Arbeitsaufträge 1 bis 6 der Lernsituation. Ihr braucht das Arbeitsblatt 69.1 (vier Blätter) und das Buchkapitel. Eure Ergebnisse sind Teil B des Handlungsprodukts 2.
+            Bearbeiten Sie im Team die Arbeitsaufträge 1 bis 6 der Lernsituation. Sie benötigen das Arbeitsblatt 69.1 (vier Blätter) und das Buchkapitel. Ihre Ergebnisse sind Teil B des Handlungsprodukts 2.
           links:
             - {titel: "LS69: Aufgaben und Arbeitsblätter"}
         loesungen:
@@ -158,32 +158,32 @@ bloecke:
             - {titel: "LS69 - Lösungen Teil 1"}
         lernatelier:
           text: |
-            Hier findet ihr die Aufgaben zur LS69, die Lösungen und die Zusatzaufgaben. Die BNE-Aufgabe zu Nachhaltigkeitsziel 6 (Sauberes Wasser, Lacke und Gewässerschutz) gehört dazu.
+            Hier finden Sie die Aufgaben zur LS69, die Lösungen und die Zusatzaufgaben. Die BNE-Aufgabe zu Nachhaltigkeitsziel 6 (Sauberes Wasser, Lacke und Gewässerschutz) gehört dazu.
 
-            Hinweis: Bearbeite nicht alle Aufgaben, sondern übe gezielt die Themen, bei denen du Bedarf hast.
+            Hinweis: Bearbeiten Sie nicht alle Aufgaben, sondern üben Sie gezielt die Themen, bei denen Sie Bedarf haben.
           links:
             - {titel: "LS69: Aufgaben aus dem Arbeitsheft (Seiten 123 bis 125)"}
             - {titel: "LS69: Aufgabenauswahl nach Niveau und Zusatzaufgaben (BNE SDG 6)"}
             - {titel: "LS69 - Lösungen Teil 2"}
         verarbeitung:
-          text: "Hier findest du die Lösungen zu den Alles-klar-Aufgaben Kapitel 4. Prüfe danach deine Kann-Liste."
+          text: "Hier finden Sie die Lösungen zu den Alles-klar-Aufgaben Kapitel 4. Prüfen Sie danach Ihre Kann-Liste."
           links:
             - {titel: "Lösungen Alles-klar-Aufgaben Kapitel 4"}
     abschluss:
       - systematisierung:
           titel: "Systematisierung: Nachhaltigkeit und Entsorgung (Strukturlegetechnik)"
           text: |
-            Legt aus den Begriffen von LS70 und LS69 mit Karten ein Strukturbild (analog, ohne Computer). Ordnet auch die Nachhaltigkeitsziele 6 und 11 ein und haltet das Ergebnis für Teil C eures Handlungsprodukts fest.
+            Legen Sie aus den Begriffen von LS70 und LS69 mit Karten ein Strukturbild (analog, ohne Computer). Ordnen Sie auch die Nachhaltigkeitsziele 6 und 11 ein und halten Sie das Ergebnis für Teil C Ihres Handlungsprodukts fest.
           links:
             - {titel: "Systematisierung: Anleitung und Begriffe"}
       - textfeld:
           titel: "Meeting: Handlungsprodukt 2 vorstellen"
           text: |
-            Stellt euer Konzept im Meeting (Rollenspiel) vor. Verteilt Rollen wie Geschäftsführung, Logistik, Produktion, Betriebsrat, Verwaltung. Am Ende entscheidet das Meeting, welche Maßnahmen umgesetzt werden.
+            Stellen Sie Ihr Konzept im Meeting (Rollenspiel) vor. Verteilen Sie Rollen wie Geschäftsführung, Logistik, Produktion, Betriebsrat, Verwaltung. Am Ende entscheidet das Meeting, welche Maßnahmen umgesetzt werden.
       - zertifizierung:
           titel: "Zertifizierung - Terminwahl für das Fachgespräch zu HP 1 und HP 2"
           text: |
-            Tragt euch in die TaskCard ein, sobald ihr Block II bearbeitet habt. Verschiebt dazu die Kachel mit eurem Namen in die gewünschte Spalte. Sobald ein Termin mit 3 bis 4 Schülerinnen und Schülern belegt ist, beginnen wir mit dem Fachgespräch.
+            Tragen Sie sich in die TaskCard ein, sobald Sie Block II bearbeitet haben. Verschieben Sie dazu die Kachel mit Ihrem Namen in die gewünschte Spalte. Sobald ein Termin mit 3 bis 4 Schülerinnen und Schülern belegt ist, beginnen wir mit dem Fachgespräch.
       - textfeld:
           titel: "Fachgespräch: Ablauf und Kriterien"
           links:
@@ -191,7 +191,7 @@ bloecke:
       - reflexion:
           titel: "Reflexion und Feedback Block II"
           text: |
-            Nimm dir nach dem Fachgespräch 15 Minuten: Was lief gut? Was ist noch unklar? Wie hängen Lieferkette, Lager, Nachhaltigkeit und Entsorgung zusammen? Welchen Beitrag leistet die Logistik zu den Nachhaltigkeitszielen 6 und 11?
+            Nehmen Sie sich nach dem Fachgespräch 15 Minuten: Was lief gut? Was ist noch unklar? Wie hängen Lieferkette, Lager, Nachhaltigkeit und Entsorgung zusammen? Welchen Beitrag leistet die Logistik zu den Nachhaltigkeitszielen 6 und 11?
           links:
             - {titel: "Reflexion Block II: Leitfragen"}
 
@@ -200,9 +200,9 @@ bloecke:
       - textfeld:
           titel: "Block III: Überblick"
           text: |
-            In Block III rechnest und entscheidest du: Eigen- oder Fremdlager (LS66), Lagerkennzahlen (LS67) und die passende Transportform (LS68). Es gibt kein Handlungsprodukt, der Block endet mit der Klassenarbeit 1.
+            In Block III rechnen und entscheiden Sie: Eigen- oder Fremdlager (LS66), Lagerkennzahlen (LS67) und die passende Transportform (LS68). Es gibt kein Handlungsprodukt, der Block endet mit der Klassenarbeit 1.
 
-            Die Rechenwege (kritische Lagerfläche, Kennzahlen, kritische Entfernung) übst du im Lernatelier. In der Systematisierung ordnest du Rechenwege und Zusammenhänge mit der Strukturlegetechnik.
+            Die Rechenwege (kritische Lagerfläche, Kennzahlen, kritische Entfernung) üben Sie im Lernatelier. In der Systematisierung ordnen Sie Rechenwege und Zusammenhänge mit der Strukturlegetechnik.
     lernsituationen:
       - id: ls66
         titel: "LS66 - Zwischen Eigen- und Fremdlager entscheiden"
@@ -212,7 +212,7 @@ bloecke:
         orientierung: {titel: "Inhaltliche Orientierung: Zwischen Eigen- und Fremdlager entscheiden"}
         kokreativ:
           text: |
-            Bearbeitet im Team die Arbeitsaufträge 1 bis 3 der Lernsituation. Ihr braucht die Arbeitsblätter 66.1 (Kostenvergleich) und 66.2 (Vertragsverhältnisse) und das Buchkapitel.
+            Bearbeiten Sie im Team die Arbeitsaufträge 1 bis 3 der Lernsituation. Sie benötigen die Arbeitsblätter 66.1 (Kostenvergleich) und 66.2 (Vertragsverhältnisse) und das Buchkapitel.
           links:
             - {titel: "LS66: Aufgaben und Arbeitsblätter"}
         loesungen:
@@ -220,15 +220,15 @@ bloecke:
             - {titel: "LS66 - Lösungen Teil 1"}
         lernatelier:
           text: |
-            Hier findet ihr die Aufgaben zur LS66, die Lösungen und die Zusatzaufgaben (Kostenvergleich in der Tabellenkalkulation, Entscheidungsvorlage, Nachhaltigkeit).
+            Hier finden Sie die Aufgaben zur LS66, die Lösungen und die Zusatzaufgaben (Kostenvergleich in der Tabellenkalkulation, Entscheidungsvorlage, Nachhaltigkeit).
 
-            Hinweis: Bearbeite nicht alle Aufgaben, sondern übe gezielt die Themen, bei denen du Bedarf hast.
+            Hinweis: Bearbeiten Sie nicht alle Aufgaben, sondern üben Sie gezielt die Themen, bei denen Sie Bedarf haben.
           links:
             - {titel: "LS66: Aufgaben aus dem Arbeitsheft (Seiten 94 bis 97)"}
             - {titel: "LS66: Aufgabenauswahl nach Niveau und Zusatzaufgaben"}
             - {titel: "LS66 - Lösungen Teil 2"}
         verarbeitung:
-          text: "Hier findest du die Lösungen zu den Alles-klar-Aufgaben. Prüfe danach deine Kann-Liste."
+          text: "Hier finden Sie die Lösungen zu den Alles-klar-Aufgaben. Prüfen Sie danach Ihre Kann-Liste."
           links:
             - {titel: "Lösungen Alles-klar-Aufgaben Kapitel 2 (LS66)"}
       - id: ls67
@@ -239,7 +239,7 @@ bloecke:
         orientierung: {titel: "Inhaltliche Orientierung: Die Lagerhaltung mithilfe von Kennzahlen verbessern"}
         kokreativ:
           text: |
-            Bearbeitet im Team die Arbeitsaufträge 1 bis 5 der Lernsituation. Ihr braucht die Lagerdateien, die Arbeitsblätter 67.1 und 67.2 und das Buchkapitel.
+            Bearbeiten Sie im Team die Arbeitsaufträge 1 bis 5 der Lernsituation. Sie benötigen die Lagerdateien, die Arbeitsblätter 67.1 und 67.2 und das Buchkapitel.
           links:
             - {titel: "LS67: Aufgaben und Arbeitsblätter"}
         loesungen:
@@ -247,9 +247,9 @@ bloecke:
             - {titel: "LS67 - Lösungen Teil 1"}
         lernatelier:
           text: |
-            Hier findet ihr die Aufgaben zur LS67, die Lösungen und die Zusatzaufgaben (Kennzahlen-Tabelle, Fachartikel zu Festplatz- und Freiplatzsystem, Kennzahlen im Betrieb).
+            Hier finden Sie die Aufgaben zur LS67, die Lösungen und die Zusatzaufgaben (Kennzahlen-Tabelle, Fachartikel zu Festplatz- und Freiplatzsystem, Kennzahlen im Betrieb).
 
-            Hinweis: Bearbeite nicht alle Aufgaben, sondern übe gezielt die Themen, bei denen du Bedarf hast. Die Bestandserfassung und Inventur kennst du aus Lernfeld 5.
+            Hinweis: Bearbeiten Sie nicht alle Aufgaben, sondern üben Sie gezielt die Themen, bei denen Sie Bedarf haben. Die Bestandserfassung und Inventur kennen Sie aus Lernfeld 5.
           links:
             - {titel: "LS67: Aufgaben aus dem Arbeitsheft (Seiten 102 bis 107)"}
             - {titel: "LS67: Aufgabenauswahl nach Niveau und Zusatzaufgaben"}
@@ -257,7 +257,7 @@ bloecke:
           zusatz:
             - {titel: "Fachartikel: Erfolgsfaktor Kommissionierung (zu den Aufgaben 3 und 4: Festplatz- und Freiplatzsystem)"}
         verarbeitung:
-          text: "Hier findest du die Lösungen zu den Alles-klar-Aufgaben. Prüfe danach deine Kann-Liste."
+          text: "Hier finden Sie die Lösungen zu den Alles-klar-Aufgaben. Prüfen Sie danach Ihre Kann-Liste."
           links:
             - {titel: "Lösungen Alles-klar-Aufgaben Kapitel 2 (LS67)"}
       - id: ls68
@@ -268,7 +268,7 @@ bloecke:
         orientierung: {titel: "Inhaltliche Orientierung: Die geeignete Transportform auswählen"}
         kokreativ:
           text: |
-            Bearbeitet im Team die Arbeitsaufträge 1 bis 4 der Lernsituation. Ihr braucht die Arbeitsblätter 68.1 und 68.2 (Frachtbrief) und das Buchkapitel.
+            Bearbeiten Sie im Team die Arbeitsaufträge 1 bis 4 der Lernsituation. Sie benötigen die Arbeitsblätter 68.1 und 68.2 (Frachtbrief) und das Buchkapitel.
           links:
             - {titel: "LS68: Aufgaben und Arbeitsblätter"}
         loesungen:
@@ -276,9 +276,9 @@ bloecke:
             - {titel: "LS68 - Lösungen Teil 1"}
         lernatelier:
           text: |
-            Hier findet ihr die Aufgaben zur LS68, die Lösungen und die Zusatzaufgaben (Nutzwertanalyse, Erklärvideo, CO2 beim Transport). Zu den Aufgaben 8 bis 11 (Warenbegleit- und Warenwertpapiere) gibt es ein Info-Blatt und ein Arbeitsblatt.
+            Hier finden Sie die Aufgaben zur LS68, die Lösungen und die Zusatzaufgaben (Nutzwertanalyse, Erklärvideo, CO2 beim Transport). Zu den Aufgaben 8 bis 11 (Warenbegleit- und Warenwertpapiere) gibt es ein Info-Blatt und ein Arbeitsblatt.
 
-            Hinweis: Bearbeite nicht alle Aufgaben, sondern übe gezielt die Themen, bei denen du Bedarf hast.
+            Hinweis: Bearbeiten Sie nicht alle Aufgaben, sondern üben Sie gezielt die Themen, bei denen Sie Bedarf haben.
           links:
             - {titel: "LS68: Aufgaben aus dem Arbeitsheft (Seiten 113 bis 116)"}
             - {titel: "LS68: Aufgabenauswahl nach Niveau und Zusatzaufgaben"}
@@ -287,25 +287,25 @@ bloecke:
             - {titel: "Info-Blatt: Warenbegleitpapiere und Warenwertpapiere"}
             - {titel: "Arbeitsblatt: Warenbegleitpapiere unterscheiden (mit Video zu Dokumenten in Spedition und Logistik)"}
         verarbeitung:
-          text: "Hier findest du die Lösungen zu den Alles-klar-Aufgaben Kapitel 3. Prüfe danach deine Kann-Liste."
+          text: "Hier finden Sie die Lösungen zu den Alles-klar-Aufgaben Kapitel 3. Prüfen Sie danach Ihre Kann-Liste."
           links:
             - {titel: "Lösungen Alles-klar-Aufgaben Kapitel 3"}
     abschluss:
       - systematisierung:
           titel: "Systematisierung: Kosten, Kennzahlen, Transport (Strukturlegetechnik)"
           text: |
-            Ordnet mit Karten die Rechenwege und Zusammenhänge aus LS66, LS67 und LS68 (analog, ohne Computer). Das Strukturbild hilft euch bei der Vorbereitung der Klassenarbeit.
+            Ordnen Sie mit Karten die Rechenwege und Zusammenhänge aus LS66, LS67 und LS68 (analog, ohne Computer). Das Strukturbild hilft Ihnen bei der Vorbereitung der Klassenarbeit.
           links:
             - {titel: "Systematisierung: Anleitung und Begriffe"}
       - textfeld:
           titel: "Klassenarbeit 1: Überblick und Vorbereitung"
           text: |
-            Die Klassenarbeit 1 bezieht sich auf LS66, LS67 und LS68. Hier findest du Themen, wichtige Formeln und Tipps zur Vorbereitung.
+            Die Klassenarbeit 1 bezieht sich auf LS66, LS67 und LS68. Hier finden Sie Themen, wichtige Formeln und Tipps zur Vorbereitung.
           links:
             - {titel: "Klassenarbeit 1: Überblick und Vorbereitung"}
       - reflexion:
           titel: "Reflexion und Feedback Block III"
           text: |
-            Nimm dir nach der Klassenarbeit 15 Minuten: Was hat in der Vorbereitung gut funktioniert? Welche Rechenwege sitzen, welche nicht? Was nimmst du aus dem Lernfeld 7 mit?
+            Nehmen Sie sich nach der Klassenarbeit 15 Minuten: Was hat in der Vorbereitung gut funktioniert? Welche Rechenwege sitzen, welche nicht? Was nehmen Sie aus dem Lernfeld 7 mit?
           links:
             - {titel: "Reflexion Block III: Leitfragen"}

@@ -18,48 +18,48 @@ P = ["Halbjahr 01/20X1", "02/20X1", "01/20X2", "02/20X2", "01/20X3", "02/20X3"]
 
 def lernatelier_ls70(pfad):
     lernatelier(pfad, "LS 70", "Für Sicherheit und Nachhaltigkeit in der Logistik sorgen", "Seiten 132 bis 134",
-        ("1, 2, 4, 6, 8", "Du willst Sicherheitszeichen, Gefahrensymbole, Ergonomie und die Unfallanzeige sicher können."),
-        ("3, 5, 7, 9", "Du vertiefst Gefahrguttransport, Unfallstatistik, Corporate Carbon Footprint und Datenschutz."),
-        ("10 und Zusatzaufgaben", "Du überträgst auf den Betrieb oder entwickelst eigene Lösungen."),
+        ("1, 2, 4, 6, 8", "Sie wollen Sicherheitszeichen, Gefahrensymbole, Ergonomie und die Unfallanzeige sicher können."),
+        ("3, 5, 7, 9", "Sie vertiefen Gefahrguttransport, Unfallstatistik, Corporate Carbon Footprint und Datenschutz."),
+        ("10 und Zusatzaufgaben", "Sie übertragen auf den Betrieb oder entwickeln eigene Lösungen."),
         [("Basis", "Sicherheitszeichen im Lager der Fly Bike Werke GmbH",
-          "Ordne fünf Bereichen des neuen Lagers (Gefahrstofflager, Lithium-Batterien, Stapler-Verkehr, Laderampe, Büro) passende "
-          "Sicherheitszeichen zu (Verbot, Gebot, Warnung, Brandschutz, Rettung) und begründe jeweils kurz."),
+          "Ordnen Sie fünf Bereichen des neuen Lagers (Gefahrstofflager, Lithium-Batterien, Stapler-Verkehr, Laderampe, Büro) passende "
+          "Sicherheitszeichen zu (Verbot, Gebot, Warnung, Brandschutz, Rettung) und begründen Sie jeweils kurz."),
          ("Plus", "Checkliste für eine Lagerbegehung (Kontrollieren, IHK-Katalog)",
-          "Erstelle für eine Lagerbegehung eine Checkliste mit mindestens zehn Prüfpunkten zu Lagervorschriften (zum Beispiel "
-          "Fluchtwege, Kennzeichnung, Gefahrstofflagerung, Regalsicherheit, Ordnung, Löschmittel). Lege fest, wer kontrolliert, "
+          "Erstellen Sie für eine Lagerbegehung eine Checkliste mit mindestens zehn Prüfpunkten zu Lagervorschriften (zum Beispiel "
+          "Fluchtwege, Kennzeichnung, Gefahrstofflagerung, Regalsicherheit, Ordnung, Löschmittel). Legen Sie fest, wer kontrolliert, "
           "wie oft und was bei einem Mangel passiert."),
          ("BNE: SDG 11", "Nachhaltige Stadtlogistik: die letzte Meile in Oldenburg",
-          "Lies den Zeitungsartikel zur „letzten Meile“ in der Lernsituation. Entwickle ein Konzept für die Belieferung der Innenstadt "
-          "(Packstationen, Elektrofahrzeuge, Lieferzonen, Bündelung). Beziehe dich auf die Nachhaltigkeitsziele der UN "
-          "(Ziel 11, besonders Verkehr und Umweltbelastung der Städte). Bewerte das Konzept nach Ökologie, Sozialem und Ökonomie "
-          "(Arbeitsblätter 70.1 bis 70.4) und nenne Hürden."),
+          "Lesen Sie den Zeitungsartikel zur „letzten Meile“ in der Lernsituation. Entwickeln Sie ein Konzept für die Belieferung der Innenstadt "
+          "(Packstationen, Elektrofahrzeuge, Lieferzonen, Bündelung). Beziehen Sie sich auf die Nachhaltigkeitsziele der UN "
+          "(Ziel 11, besonders Verkehr und Umweltbelastung der Städte). Bewerten Sie das Konzept nach Ökologie, Sozialem und Ökonomie "
+          "(Arbeitsblätter 70.1 bis 70.4) und nennen Sie Hürden."),
          ("Kreativ", "Die letzte Meile 2035",
-          "Gestalte ein Poster oder einen kurzen Pitch (3 Minuten): Wie sieht die Zustellung in deiner Stadt 2035 aus? "
-          "Begründe, welche Technik und welche Regeln dafür nötig sind.")])
+          "Gestalten Sie ein Poster oder einen kurzen Pitch (3 Minuten): Wie sieht die Zustellung in Ihrer Stadt 2035 aus? "
+          "Begründen Sie, welche Technik und welche Regeln dafür nötig sind.")])
 
 
 def lernatelier_ls69(pfad):
     lernatelier(pfad, "LS 69", "Ein Entsorgungskonzept erstellen", "Seiten 123 bis 125",
-        ("1, 3, 4, 6, 7, 9", "Du willst Abfallarten, Vermeidung, Verwertung und die Abfallhierarchie sicher können."),
-        ("2, 5, 8, 10", "Du vertiefst Recycling, Kennzahlen (Aufgabe 5), Rechtsgrundlagen und Datenauswertung."),
-        ("Zusatzaufgaben", "Du überträgst auf den Betrieb oder entwickelst eigene Lösungen."),
+        ("1, 3, 4, 6, 7, 9", "Sie wollen Abfallarten, Vermeidung, Verwertung und die Abfallhierarchie sicher können."),
+        ("2, 5, 8, 10", "Sie vertiefen Recycling, Kennzahlen (Aufgabe 5), Rechtsgrundlagen und Datenauswertung."),
+        ("Zusatzaufgaben", "Sie übertragen auf den Betrieb oder entwickeln eigene Lösungen."),
         [("Basis", "Abfallarten ordnen",
-          "Ordne die zwölf Haftnotizen der Lernsituation den Gruppen Produktionsabfall, Verpackung, Elektro- und Elektronikschrott, "
-          "Gefahrstoff und Rücknahmeprodukt zu. Kennzeichne, welche Abfälle gefährlich sind und deshalb besondere Regeln brauchen."),
+          "Ordnen Sie die zwölf Haftnotizen der Lernsituation den Gruppen Produktionsabfall, Verpackung, Elektro- und Elektronikschrott, "
+          "Gefahrstoff und Rücknahmeprodukt zu. Kennzeichnen Sie, welche Abfälle gefährlich sind und deshalb besondere Regeln brauchen."),
          ("BNE: SDG 6", "Sauberes Wasser: Lacke und Gewässerschutz",
           "In der Lackiererei der Fly Bike Werke GmbH werden überschüssige Lacke und Farben aufgefangen. a) Welche Stoffe in Lacken "
           "und Reinigern können Gewässer gefährden? b) Welche Regeln gelten für den Umgang mit wassergefährdenden Stoffen und "
-          "Abwasser (zum Beispiel Wasserhaushaltsgesetz, Gefahrstoffrecht)? c) Entwickle Maßnahmen, damit nichts ins Abwasser "
-          "gelangt (Auffangwannen, Annahme und Entsorgung, wasserbasierte Lacke, Schulung). Beziehe dich auf das "
-          "Nachhaltigkeitsziel 6 (Wasserqualität verbessern, Verschmutzung verringern) und ergänze die Ergebnisse in deinem "
+          "Abwasser (zum Beispiel Wasserhaushaltsgesetz, Gefahrstoffrecht)? c) Entwickeln Sie Maßnahmen, damit nichts ins Abwasser "
+          "gelangt (Auffangwannen, Annahme und Entsorgung, wasserbasierte Lacke, Schulung). Beziehen Sie sich auf das "
+          "Nachhaltigkeitsziel 6 (Wasserqualität verbessern, Verschmutzung verringern) und ergänzen Sie die Ergebnisse in Ihrem "
           "Entsorgungskonzept."),
          ("Plus", "Kennzahlen-Cockpit für das Monitoring",
-          "Entwickle für das Entsorgungskonzept ein Kennzahlen-Cockpit (OnlyOffice-Tabellenkalkulation) mit mindestens vier "
+          "Entwickeln Sie für das Entsorgungskonzept ein Kennzahlen-Cockpit (OnlyOffice-Tabellenkalkulation) mit mindestens vier "
           "Kennzahlen (zum Beispiel Abfallmenge je Produkt, Wiederverwertungsquote, relative Entsorgungskosten, Anteil gefährlicher "
-          "Abfälle). Trage Beispielwerte aus Aufgabe 5 ein und berechne die Kennzahlen mit Formeln. Lege Zielwerte fest."),
+          "Abfälle). Tragen Sie Beispielwerte aus Aufgabe 5 ein und berechnen Sie die Kennzahlen mit Formeln. Legen Sie Zielwerte fest."),
          ("Kreativ", "Kampagne für die Belegschaft",
-          "Gestalte eine kurze Kampagne (Plakat, Kurztext oder Video), die Mitarbeitende zum Vermeiden und Trennen von Abfall "
-          "motiviert. Benenne Zielgruppe, Botschaft und einen Weg, den Erfolg zu messen.")])
+          "Gestalten Sie eine kurze Kampagne (Plakat, Kurztext oder Video), die Mitarbeitende zum Vermeiden und Trennen von Abfall "
+          "motiviert. Benennen Sie Zielgruppe, Botschaft und einen Weg, den Erfolg zu messen.")])
 
 
 def loesungen_ls70_teil2(pfad):

@@ -13,13 +13,13 @@ assert BRUTTO == 590
 
 def lernatelier(pfad, ls, titel, buch_seiten, basis, plus, kreativ, zusatz):
     d = Dok(KOPF + f" · {ls}", f"Lernatelier {ls}: {titel}")
-    d.p("Du entscheidest selbst, was du übst. Wähle die Aufgaben nach deinem Stand (Kann-Liste), nicht alle sind nötig. "
-        "Die Lösungen findest du in „Lösungen Teil 2“. Ergänzend gibt es Aufgaben zu BNE und zum IHK-Prüfungskatalog.", kursiv=True)
+    d.p("Sie entscheiden selbst, was Sie üben. Wählen Sie die Aufgaben nach Ihrem Stand (Kann-Liste), nicht alle sind nötig. "
+        "Die Lösungen finden Sie in „Lösungen Teil 2“. Ergänzend gibt es Aufgaben zu BNE und zum IHK-Prüfungskatalog.", kursiv=True)
     d.h2(f"Aufgaben aus dem Arbeitsheft ({buch_seiten})")
     d.tabelle(["Niveau", "Empfohlene Aufgaben", "Für wen?"], [
         ["Basis", basis[0], basis[1]], ["Plus", plus[0], plus[1]], ["Kreativ und Transfer", kreativ[0], kreativ[1]]], [3.2, 5.6, 8.2])
-    d.p("Aufgaben mit „Recherchieren Sie in Ihrem Ausbildungsunternehmen …“ bearbeitest du im Betrieb oder mit Unterlagen aus "
-        "dem Betrieb; achte dabei auf Datenschutz und Betriebsgeheimnisse.", kursiv=True)
+    d.p("Aufgaben mit „Recherchieren Sie in Ihrem Ausbildungsunternehmen …“ bearbeiten Sie im Betrieb oder mit Unterlagen aus "
+        "dem Betrieb; achten Sie dabei auf Datenschutz und Betriebsgeheimnisse.", kursiv=True)
     d.h2("Zusatzaufgaben")
     for niv, t, aufg in zusatz:
         d.h3(f"{niv}: {t}")
@@ -29,21 +29,21 @@ def lernatelier(pfad, ls, titel, buch_seiten, basis, plus, kreativ, zusatz):
 
 def lernatelier_ls64(pfad):
     lernatelier(pfad, "LS 64", "Ein Logistikkonzept erstellen", "Seiten 77 bis 79",
-        ("1, 2, 3, 6, 13", "Du willst Warenfluss, 7-R-Regel und Push/Pull sicher können."),
-        ("4, 5, 7, 10, 12, 14", "Du kannst die Grundlagen und willst Zusammenhänge, Rechnungen (Kanban) und Rechtliches vertiefen."),
-        ("8, 9, 11, 15 und Zusatzaufgaben", "Du überträgst auf den Betrieb oder entwickelst eigene Lösungen."),
+        ("1, 2, 3, 6, 13", "Sie wollen Warenfluss, 7-R-Regel und Push/Pull sicher können."),
+        ("4, 5, 7, 10, 12, 14", "Sie können die Grundlagen und wollen Zusammenhänge, Rechnungen (Kanban) und Rechtliches vertiefen."),
+        ("8, 9, 11, 15 und Zusatzaufgaben", "Sie übertragen auf den Betrieb oder entwickeln eigene Lösungen."),
         [("Basis", "Info-Blatt 4.2: Just-in-Time und Just-in-Sequence (IHK-Katalog)",
-          "Lies das Info-Blatt „Just-in-Time vs. Just-in-Sequence“ (Ergänzendes Material).\na) Erkläre beide Verfahren in eigenen Worten.\n"
-          "b) Ordne zu, ob Just-in-Time oder Just-in-Sequence passt: Sitze für verschieden ausgestattete Autos, Schrauben, "
-          "Außenspiegel in Wunschfarbe, einfache Standardteile. Nenne je ein weiteres Beispiel aus Industrie oder Handel.\n"
+          "Lesen Sie das Info-Blatt „Just-in-Time vs. Just-in-Sequence“ (Ergänzendes Material).\na) Erklären Sie beide Verfahren in eigenen Worten.\n"
+          "b) Ordnen Sie zu, ob Just-in-Time oder Just-in-Sequence passt: Sitze für verschieden ausgestattete Autos, Schrauben, "
+          "Außenspiegel in Wunschfarbe, einfache Standardteile. Nennen Sie je ein weiteres Beispiel aus Industrie oder Handel.\n"
           "c) Warum ist die Reihenfolge der Lieferung bei vielen Varianten so wichtig?"),
          ("Plus", "Passt Just-in-Time zur Fly Bike Werke GmbH?",
-          "Die Fly Bike Werke GmbH erwägt, einzelne Teile per Just-in-Time zu beziehen. Prüfe für drei Teile (zum Beispiel "
+          "Die Fly Bike Werke GmbH erwägt, einzelne Teile per Just-in-Time zu beziehen. Prüfen Sie für drei Teile (zum Beispiel "
           "Flügelschrauben, Aluminiumrohre aus Deutschland, E-Bike-Batterien aus Asien), ob Just-in-Time oder ein Sicherheitsbestand "
-          "besser passt. Beziehe Lieferzeit, Verlässlichkeit des Lieferanten, Nachfrageschwankung und Kosten ein und gib eine "
-          "begründete Empfehlung ab. Prüfe, ob Just-in-Sequence in der Endmontage sinnvoll wäre."),
+          "besser passt. Beziehen Sie Lieferzeit, Verlässlichkeit des Lieferanten, Nachfrageschwankung und Kosten ein und geben Sie eine "
+          "begründete Empfehlung ab. Prüfen Sie, ob Just-in-Sequence in der Endmontage sinnvoll wäre."),
          ("Kreativ", "Erklärbild oder Kurzvideo „JIT oder JIS?“",
-          "Erstelle in OnlyOffice (Präsentationseditor) eine Infografik oder ein kurzes Erklärvideo (höchstens 3 Minuten), das "
+          "Erstellen Sie in OnlyOffice (Präsentationseditor) eine Infografik oder ein kurzes Erklärvideo (höchstens 3 Minuten), das "
           "Mitschülern den Unterschied zwischen Just-in-Time und Just-in-Sequence an einem eigenen Beispiel erklärt."),
          ("BNE", "Lieferkette und Verantwortung",
           "Das Lieferkettensorgfaltspflichtengesetz verlangt von Unternehmen, auf Menschenrechte und Umweltstandards in der "
@@ -53,25 +53,25 @@ def lernatelier_ls64(pfad):
 
 def lernatelier_ls65(pfad):
     lernatelier(pfad, "LS 65", "Die Lagerhaltung planen", "Seiten 84 bis 88",
-        ("2, 4, 5, 6, 13, 16, 18, 20", "Du willst Lagerfunktionen, Wareneingang und Lagerformen sicher können."),
-        ("7, 10, 11, 15, 17, 19, 23", "Du vertiefst Kommissionierung, Flächenberechnung und Entscheidungen."),
-        ("8, 9, 14, 21, 22, 24 und Zusatzaufgaben", "Du überträgst auf den Betrieb oder entwickelst eigene Lösungen."),
+        ("2, 4, 5, 6, 13, 16, 18, 20", "Sie wollen Lagerfunktionen, Wareneingang und Lagerformen sicher können."),
+        ("7, 10, 11, 15, 17, 19, 23", "Sie vertiefen Kommissionierung, Flächenberechnung und Entscheidungen."),
+        ("8, 9, 14, 21, 22, 24 und Zusatzaufgaben", "Sie übertragen auf den Betrieb oder entwickeln eigene Lösungen."),
         [("Basis", "Fachartikel „Erfolgsfaktor Kommissionierung“ (Ergänzendes Material)",
-          "Lies den Fachartikel und beantworte: a) Warum spielt die Kommissionierung für den Markterfolg eine Schlüsselrolle? "
-          "b) Vergleiche „Mann zur Ware“ und „Ware zum Mann“ nach Investitionen, Personalbedarf, Fehleranfälligkeit und Eignung. "
-          "c) Erkläre Festplatzsystem und Freiplatzsystem und nenne einen Vor- und einen Nachteil des Freiplatzsystems. "
+          "Lesen Sie den Fachartikel und beantworten Sie: a) Warum spielt die Kommissionierung für den Markterfolg eine Schlüsselrolle? "
+          "b) Vergleichen Sie „Mann zur Ware“ und „Ware zum Mann“ nach Investitionen, Personalbedarf, Fehleranfälligkeit und Eignung. "
+          "c) Erklären Sie Festplatzsystem und Freiplatzsystem und nennen Sie einen Vor- und einen Nachteil des Freiplatzsystems. "
           "d) Wie helfen „Ziffern statt Wörter“ und die GTIN-Codierung, Kommissionierfehler zu vermeiden?"),
          ("Plus", "Zentral, dezentral oder beides? Die drei Lager der Fly Bike Werke GmbH",
-          "Die Fly Bike Werke GmbH hat Lager am Stammsitz, in Dresden und in München. Nutze deine Ergebnisse aus LS 64 (hohe "
+          "Die Fly Bike Werke GmbH hat Lager am Stammsitz, in Dresden und in München. Nutzen Sie Ihre Ergebnisse aus LS 64 (hohe "
           "Bestände, Nachfrageschwankung) und LS 65. Soll das neue Lager am Stammsitz die Lager in Dresden und München ersetzen, "
-          "ergänzen oder bleiben diese bestehen? Vergleiche Kosten, Lieferzeit zu den Händlern, Bestände und Sicherheit und gib "
-          "eine begründete Empfehlung."),
+          "ergänzen oder bleiben diese bestehen? Vergleichen Sie Kosten, Lieferzeit zu den Händlern, Bestände und Sicherheit und geben Sie "
+          "eine begründete Empfehlung ab."),
          ("Kreativ", "Lagerlayout digital und maßstabsgetreu",
-          "Zeichne das Layout des neuen Lagers im OnlyOffice-Präsentationseditor mit Formen und Pfeilen. Markiere Warenfluss, "
-          "Gefahrstoffbereich, Kleinteilelager, Rampen und Fluchtwege. Präsentiere dein Layout in drei Minuten."),
+          "Zeichnen Sie das Layout des neuen Lagers im OnlyOffice-Präsentationseditor mit Formen und Pfeilen. Markieren Sie Warenfluss, "
+          "Gefahrstoffbereich, Kleinteilelager, Rampen und Fluchtwege. Präsentieren Sie Ihr Layout in drei Minuten."),
          ("BNE", "Nachhaltige Lagerplanung",
           "Wie kann die Lagerplanung ressourcenschonend sein (Energie, Flächenverbrauch, Verpackung, Mehrwegbehälter)? "
-          "Schlage drei Maßnahmen für das neue Lager vor und bewerte sie nach Kosten und Umweltwirkung.")])
+          "Schlagen Sie drei Maßnahmen für das neue Lager vor und bewerten Sie sie nach Kosten und Umweltwirkung.")])
 
 
 def loesungen_ls64_teil2(pfad):
